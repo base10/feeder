@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Instapaper: For Tool Sharpening</title>
+<link>https://www.instapaper.com/u/folder/2512345/for-tool-sharpening</link>
+<description></description>
+
+<item>
+<guid>https://robots.thoughtbot.com/decorators-compared-to-strategies-composites-and</guid>
+<title>Decorators Compared To Strategies, Composites, and Presenters</title>
+<link>https://robots.thoughtbot.com/decorators-compared-to-strategies-composites-and</link>
+<description>We’ve been paying closer attention lately to how we use design patterns in our Ruby on Rails work.
+Decorators have emerged as one pattern that’s helped us keep…</description>
+
+<pubDate>Sat, 18 Apr 2015 20:08:34 GMT</pubDate>
+</item>
+
+<item>
+<guid>https://medium.com/@rubyghetto/the-code-is-just-the-symptom-c77f43b29320</guid>
+<title>The Code Is Just the Symptom</title>
+<link>https://medium.com/@rubyghetto/the-code-is-just-the-symptom-c77f43b29320</link>
+<description>Since leaving SocialChorus I have been doing an odd combination of management consulting and on the ground software design consulting. I have been doing what I…</description>
+
+<pubDate>Sat, 18 Apr 2015 02:42:30 GMT</pubDate>
+</item>
+
+<item>
+<guid>http://blog.bench.co/blog/patrick-mckenzie</guid>
+<title>Building an Empire with a Single Brick: Meet Patrick McKenzie</title>
+<link>http://blog.bench.co/blog/patrick-mckenzie</link>
+<description> Rome wasn’t built in a day is one of those adages freely dispensed by motivational posters and chatty grandparents, which makes it just as easy to freely…</description>
+
+<pubDate>Fri, 17 Apr 2015 12:37:25 GMT</pubDate>
+</item>
+
+<item>
+<guid>http://zomigi.com/blog/we-need-more-moms-in-web-design-and-development/</guid>
+<title>We need more moms in web design and development</title>
+<link>http://zomigi.com/blog/we-need-more-moms-in-web-design-and-development/</link>
+<description>Last year in one of my conference talks, I mentioned that I have kids. After my talk, a woman came up to me and asked me how I do it. How I have a full-time job…</description>
+
+<pubDate>Wed, 08 Apr 2015 18:04:13 GMT</pubDate>
+</item>
+
+<item>
+<guid>https://keen.io//blog/115137602351/dont-let-anyone-tell-you-that-you-cant-be-a/</guid>
+<title>Don’t Let Anyone Tell You That You Can’t Be a Developer</title>
+<link>https://keen.io//blog/115137602351/dont-let-anyone-tell-you-that-you-cant-be-a/</link>
+<description> My hands were shaking…I could barely breathe I had just finished the first one-one-one coding assessment in my six-month coding bootcamp and it had not gone as…</description>
+
+<pubDate>Sat, 04 Apr 2015 17:22:50 GMT</pubDate>
+</item>
+
+<item>
+<guid>https://robots.thoughtbot.com/code-sleuthing-with-git</guid>
+<title>Code Sleuthing with Git</title>
+<link>https://robots.thoughtbot.com/code-sleuthing-with-git</link>
+<description>Let’s say you want to delete a method foo that seems to be dead code. You use a tool like grep to find callers of foo, and there are no results. It’s tempting…</description>
+
+<pubDate>Fri, 03 Apr 2015 13:39:56 GMT</pubDate>
+</item>
+
+</channel>
+</rss>
