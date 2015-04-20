@@ -1,0 +1,15 @@
+---
+date: @date
+context: >
+  A file with recent entries from
+  @url
+---
+
+# <%= @name %> entries for <%= @date %>
+
+<% for entry in @entries %>
+* [<%= entry.title %>](<%= entry.url %>)
+
+  > <%= entry.summary %>
+
+<% end %>

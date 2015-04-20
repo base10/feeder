@@ -1,5 +1,6 @@
 RSpec.configure do |config|
   require "pry-byebug"
+  require "timecop"
   require "webmock/rspec"
 
   config.expect_with :rspec do |expectations|

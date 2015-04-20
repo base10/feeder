@@ -1,4 +1,5 @@
 require "spec_helper"
+require "fileutils"
 
 describe Feeder::Feed do
   describe "#new" do
@@ -21,6 +22,36 @@ describe Feeder::Feed do
       ).to have_been_made.at_least_once
 
       expect(feed.entries.size).to eq(6)
+    end
+  end
+
+  describe "#report_file" do
+    it "provides a date-keyed file name" do
+      Timecop.freeze Date.new(2015, 4, 20) do
+        feed = Feeder::Feed.new(url: fake_feed_url)
+
+        expect(feed.report_file).to include("2015-04-20-feed-entries.md")
+      end
+    end
+  end
+
+  describe "#report" do
+    before(:each) do
+      if FileTest.exist?(report_file)
+        FileUtils.remove(report_file)
+      end
+    end
+
+    it "writes a Markdown document of feed entries" do
+      stub_feed
+      feed = Feeder::Feed.new(url: fake_feed_url)
+      allow(feed).to receive(:report_file).and_return(report_file)
+
+      feed.fetch
+      feed.report
+
+      expect(FileTest.exist?(report_file)).to be true
+      # expect the file to be valid Markdown
     end
   end
 
@@ -47,5 +78,12 @@ describe Feeder::Feed do
     )
 
     File.read(fixture_path)
+  end
+
+  def report_file
+    File.expand_path(
+      "../../../tmp/feed-report.md",
+      __FILE__
+    )
   end
 end
