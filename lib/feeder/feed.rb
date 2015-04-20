@@ -4,7 +4,7 @@ class Feeder::Feed
   require "faraday"
   require "feedjira"
 
-  attr_accessor :entries, :url
+  attr_accessor :entries, :parsed_feed, :url
 
   def initialize(url:)
     @entries = Array.new
@@ -12,8 +12,8 @@ class Feeder::Feed
   end
 
   def fetch
-    results = parse_feed(request_feed)
-    @entries = results.entries
+    @parsed_feed = parse_feed(request_feed)
+    @entries = parsed_feed.entries
   end
 
   private
