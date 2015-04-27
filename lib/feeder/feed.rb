@@ -7,13 +7,13 @@ class Feeder::Feed
   require "faraday_middleware"
   require "feedjira"
 
+  Dotenv.load
+
   attr_accessor :entries, :parsed_feed, :url
 
   def initialize(url:)
     @entries = Array.new
     @url = url
-
-    Dotenv.load
   end
 
   def fetch
