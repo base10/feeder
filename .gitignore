@@ -1,27 +1,14 @@
-*.gem
-*.rbc
-/.config
-/coverage/
+!.keep
+*.DS_Store
+*.swo
+*.swp
+/.bundle
 /.env
-/InstalledFiles
-/pkg/
-/spec/reports/
-/test/tmp/
-/test/version_tmp/
-/tmp/
-
-## Specific to RubyMotion:
-.dat*
-.repl_history
-build/
-
-## Documentation cache and generated files:
-/.yardoc/
-/_yardoc/
-/doc/
-/rdoc/
-
-## Environment normalisation:
-/.bundle/
-/vendor/bundle
-/lib/bundler/man/
+/.foreman
+/coverage/*
+/db/*.sqlite3
+/log/*
+/public/system
+/public/assets
+/tags
+/tmp/*

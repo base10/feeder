@@ -1,4 +1,4 @@
-require "spec_helper"
+require "rails_helper"
 require "fileutils"
 
 describe Feeder::Feed do
@@ -27,7 +27,7 @@ describe Feeder::Feed do
 
   describe "#report_file" do
     it "provides a date-keyed file name" do
-      Timecop.freeze Date.new(2015, 4, 20) do
+      Timecop.freeze Date.new(2015, 4, 20).in_time_zone("America/New_York") do
         feed = Feeder::Feed.new(url: fake_feed_url)
 
         expect(feed.report_file).to include("2015-04-20-feed-entries.md")
