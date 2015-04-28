@@ -1,5 +1,9 @@
 # Feeder
 
+[![Code Climate](https://codeclimate.com/github/base10/feeder/badges/gpa.svg)](https://codeclimate.com/github/base10/feeder)
+
+[ ![Codeship Status for base10/feeder](https://codeship.com/projects/5e7eba90-cf7d-0132-e4f9-623bdb9b8d89/status?branch=master)](https://codeship.com/projects/76717)
+
 ## Getting Started
 
 After you have cloned this repo, run this setup script to set up your machine
