@@ -15,5 +15,9 @@ en:
       short:
         "%B %d"
 
+  sign_up:
+    submit: "Join"
+    success: "You're signed up and signed in. Thanks!"
+
   titles:
     application: Feeder
