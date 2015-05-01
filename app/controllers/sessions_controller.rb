@@ -8,6 +8,7 @@ class SessionsController < ApplicationController
     user = authenticate_session(session_params)
 
     if sign_in(user)
+      flash[:notice] = t(".success")
       redirect_to root_path
     else
       render :new
@@ -16,6 +17,7 @@ class SessionsController < ApplicationController
 
   def destroy
     sign_out
+    flash[:notice] = t(".success")
     redirect_to root_path
   end
 

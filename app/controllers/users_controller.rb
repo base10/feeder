@@ -10,7 +10,7 @@ class UsersController < ApplicationController
 
     if @user.valid?
       sign_in(@user)
-      flash[:notice] = I18n.t("sign_up.success")
+      flash[:notice] = t(".success")
       redirect_to root_path
     else
       render :new

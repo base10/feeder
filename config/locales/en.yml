@@ -15,9 +15,31 @@ en:
       short:
         "%B %d"
 
+  sessions:
+    create:
+      failure: "Sorry, we couldn't log you in."
+      success: "You're signed up and signed in. Thanks!"
+    destroy:
+      success: "You've signed out. Have a great day."
+    new:
+      submit: "Sign in"
+
+  sign_in:
+    link: "Sign in"
+
+  sign_out:
+    link: "Sign out"
+
   sign_up:
+    link: "Sign up"
     submit: "Join"
-    success: "You're signed up and signed in. Thanks!"
 
   titles:
     application: Feeder
+
+  users:
+    create:
+      failure: "We couldn't create your account. Please try again."
+      success: "You're signed up and signed in. Hooray!"
+    new:
+      submit: "Create account"

@@ -1,0 +1,8 @@
+<section data-role="account_actions">
+<% if signed_in? %>
+  <%= link_to t("sign_out.link"), session_path, method: :delete %>
+<% else %>
+  <%= link_to t("sign_in.link"), new_session_path %>
+  <%= link_to t("sign_up.link"), sign_up_path %>
+<% end %>
+</section>

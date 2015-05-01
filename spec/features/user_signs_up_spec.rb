@@ -8,8 +8,8 @@ feature "User signs up for service" do
     fill_in "Email", with: "nathan@example.com"
     fill_in "Password", with: "foobarbaz"
 
-    click_on "Sign up"
+    click_on t("helpers.submit.user.create")
 
-    expect(page).to have_message(t("sign_up.success"))
+    expect(page).to have_feedback(t("users.create.success"))
   end
 end
