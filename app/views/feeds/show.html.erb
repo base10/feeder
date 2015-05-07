@@ -1,0 +1,10 @@
+<h1><%= t(".title", feed: @feed.name) %></h1>
+
+<%= link_to t("feeds.buttons.add"), new_feed_path %>
+
+<ul>
+  <li data-role="feed-name"><%= @feed.name %></li>
+  <li data-role="feed-url"><%= @feed.url %></li>
+</ul>
+
+<%= link_to t("feeds.buttons.edit"), edit_feed_path %>

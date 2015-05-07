@@ -1,6 +1,8 @@
 en:
   helpers:
     submit:
+      feed:
+        create: "Add this feed"
       user:
         create: "Create your account"
   simple_form:

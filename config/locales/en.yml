@@ -1,10 +1,27 @@
 en:
+  activerecord:
+    attributes:
+      feed:
+        url: "URL"
+
   date:
     formats:
       default:
         "%m/%d/%Y"
       with_weekday:
         "%a %m/%d/%y"
+
+  feeds:
+    buttons:
+      add: "Add feed"
+      edit: "Edit feed"
+    index:
+      title: "Feeds"
+    show:
+      title: "Feed: ${feed}"
+    create:
+      failure: "There was en error creating your feed"
+      success: "Feed created"
 
   time:
     formats:
