@@ -27,6 +27,21 @@ class FeedsController < ApplicationController
     end
   end
 
+  def edit
+    @feed = current_feed
+  end
+
+  def update
+    @feed = current_feed
+
+    if @feed.update(feed_params)
+      flash[:success] = t(".success")
+      redirect_to @feed
+    else
+      flash.now[:error] = t(".failure")
+    end
+  end
+
   private
 
   def current_feed

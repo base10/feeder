@@ -1,7 +1,7 @@
 FactoryGirl.define do
   factory :feed do
-    name "Site with a feed"
-    url "http://example.com/feed.rss"
+    sequence(:name) { |n| "Feed #{n}" }
+    sequence(:url) { |n| "http://example.com/feed#{n}.rss" }
     user
   end
 

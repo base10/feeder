@@ -15,13 +15,18 @@ en:
     buttons:
       add: "Add feed"
       edit: "Edit feed"
+      destroy: "Delete feed"
     index:
       title: "Feeds"
     show:
-      title: "Feed: ${feed}"
+      title: "Feed: %{feed}"
+    new:
+      title: "Create a new feed"
     create:
       failure: "There was en error creating your feed"
       success: "Feed created"
+    edit:
+      title: "Edit %{feed} feed"
 
   time:
     formats:

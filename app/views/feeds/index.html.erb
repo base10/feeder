@@ -1,6 +1,26 @@
 <% if signed_in? %>
   <h1><%= t(".title") %></h1>
 
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>URL</th>
+      <th>Entries</th>
+      <th>Actions</th>
+    </tr>
+    <% for feed in @feeds -%>
+    <tr>
+      <td data-role="feed-name"><%= feed.name %></td>
+      <td data-role="feed-url"><%= feed.url %></td>
+      <td data-role="feed-entries"></td>
+      <td>
+        <%= link_to t("feeds.buttons.edit"), edit_feed_path(feed) %>
+        <%= link_to t("feeds.buttons.destroy"), feed_path(feed), method: :delete %>
+      </td>
+    </tr>
+    <% end %>
+  </table>
+
   <%= link_to t("feeds.buttons.add"), new_feed_path %>
 <% else %>
   <%= render "landing" %>

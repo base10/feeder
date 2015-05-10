@@ -3,6 +3,7 @@ en:
     submit:
       feed:
         create: "Add this feed"
+        update: "Update this feed"
       user:
         create: "Create your account"
   simple_form:
