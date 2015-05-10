@@ -43,6 +43,8 @@ group :development, :test do
   gem "byebug"
   gem "dotenv-rails"
   gem "factory_girl_rails"
+  gem "guard"
+  gem "guard-rspec"
   gem "pry-rails"
   gem "rspec-rails", "~> 3.2"
 end
