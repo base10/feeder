@@ -8,4 +8,5 @@ describe User do
   end
   it { should validate_presence_of :name }
   it { should validate_presence_of :password_digest }
+  it { should have_many :feeds }
 end
