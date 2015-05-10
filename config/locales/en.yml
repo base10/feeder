@@ -27,6 +27,9 @@ en:
       success: "Feed created"
     edit:
       title: "Edit %{feed} feed"
+    destroy:
+      failure: "There was en error deleting your feed"
+      success: "Feed deleted"
 
   time:
     formats:

@@ -42,6 +42,16 @@ class FeedsController < ApplicationController
     end
   end
 
+  def destroy
+    if current_feed.destroy
+      flash[:success] = t(".success")
+    else
+      flash[:error] = t(".failure")
+    end
+
+    redirect_to feeds_path
+  end
+
   private
 
   def current_feed
