@@ -8,3 +8,26 @@
 </ul>
 
 <%= link_to t("feeds.buttons.edit"), edit_feed_path %>
+
+
+<h2><%= t(".feed_entries") %></h2>
+
+<section data-role="entries">
+  <% for entry in @feed.entries -%>
+    <article data-role="entry">
+      <h3 data-role="headline"><%= link_to entry.headline, edit_feed_entry_path(@feed, entry) %></h3>
+      <p data-role="authorship"><%= entry.authorship %></p>
+      <p data-role="published_at"><%= entry.published_at %></p>
+
+      <div data-role="summary">
+        <h4>Summary</h4>
+        <%= entry.summary %>
+      <div>
+
+      <div data-role="notes">
+        <h4>Notes</h4>
+        <%= entry.notes %>
+      </div>
+    </article>
+  <% end %>
+<section>

@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
-  resources :feeds
+  resources :feeds do
+    resources :entries, only: [:edit, :update]
+  end
+
   resource :session, only: [:new, :create, :destroy]
   resources :users, only: [:new, :create]
 

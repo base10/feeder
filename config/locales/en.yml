@@ -11,6 +11,14 @@ en:
       with_weekday:
         "%a %m/%d/%y"
 
+  entries:
+    buttons:
+      edit: "Edit entry"
+      destroy: "Delete entry"
+    update:
+      failure: "There was an error updating this entry"
+      success: "Successfully updated the entry"
+
   feeds:
     buttons:
       add: "Add feed"
@@ -19,6 +27,7 @@ en:
     index:
       title: "Feeds"
     show:
+      feed_entries: "Feed entries"
       title: "Feed: %{feed}"
     new:
       title: "Create a new feed"

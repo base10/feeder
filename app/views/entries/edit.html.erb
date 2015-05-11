@@ -1,0 +1,9 @@
+<%= simple_form_for [current_feed, @entry] do |form| %>
+  <%= form.input :headline %>
+  <%= form.input :authorship %>
+  <%= form.input :url %>
+  <%= form.input :summary, as: :text %>
+  <%= form.input :notes, as: :text %>
+
+  <%= form.button :submit %>
+<% end %>

@@ -10,7 +10,7 @@
     </tr>
     <% for feed in @feeds -%>
     <tr>
-      <td data-role="feed-name"><%= feed.name %></td>
+      <td data-role="feed-name"><%= link_to feed.name, feed_path(feed) %></td>
       <td data-role="feed-url"><%= feed.url %></td>
       <td data-role="feed-entries"></td>
       <td>

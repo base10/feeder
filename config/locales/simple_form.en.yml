@@ -1,6 +1,8 @@
 en:
   helpers:
     submit:
+      entry:
+        update: "Update entry"
       feed:
         create: "Add this feed"
         update: "Update this feed"

@@ -39,6 +39,7 @@ class FeedsController < ApplicationController
       redirect_to @feed
     else
       flash.now[:error] = t(".failure")
+      render :edit
     end
   end
 
