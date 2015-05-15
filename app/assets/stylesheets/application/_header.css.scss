@@ -1,0 +1,11 @@
+header {
+  background-color: $color_header_background;
+  color:            $color_text;
+  margin:           $margin_zero;
+  text-align:       left;
+  padding-bottom:   5em;
+}
+
+header h1 {
+  font-size: 1.8em;
+}
