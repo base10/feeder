@@ -1,0 +1,15 @@
+main {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+}
+
+html, body {
+ height: 100%;
+}
+
+main:after {
+  content: "";
+  display: block;
+}
