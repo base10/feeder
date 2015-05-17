@@ -11,6 +11,10 @@ en:
       with_weekday:
         "%a %m/%d/%y"
 
+  application:
+    title: "Feeder"
+    explainer: "An application for tracking and sharing your learning."
+
   feeds:
     buttons:
       add: "Add feed"
