@@ -15,10 +15,9 @@
 </head>
 <body class="<%= body_class %>">
   <%= render "header" %>
-  <%= render "account_actions" -%>
-  <%= render "flashes" -%>
   <main>
-  <%= yield %>
+    <%= render "flashes" -%>
+    <%= yield %>
   </main>
   <%= render "footer" %>
   <%= render "javascript" %>

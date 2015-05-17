@@ -1,7 +1,7 @@
 <% if flash.any? %>
-  <div id="flash" data-role="feedback">
+  <section id="flash" data-role="feedback">
     <% user_facing_flashes.each do |key, value| -%>
       <div class="flash-<%= key %>"><%= value %></div>
     <% end -%>
-  </div>
+  </section>
 <% end %>
