@@ -23,7 +23,18 @@ en:
     index:
       title: "Feeds"
     show:
+      buttons:
+        edit_editions: "Edit editions"
+        edit_entries: "Edit entries"
       title: "Feed: %{feed}"
+      editions:
+        title: "Most recent editions and entries"
+      statistics:
+        title: "Feed statistics"
+        entries: "Entries"
+        oldest: "Oldest"
+        newest: "Newest"
+        editions: "Editions"
     new:
       title: "Create a new feed"
     create:

@@ -1,2 +1,57 @@
+<%=  %>
+
 <h2><%= t("feeds.index.title") %></h2>
+
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>URL</th>
+      <th>Entries</th>
+      <th>Actions</th>
+    </tr>
+    <tr>
+      <td data-role="feed-name"><a href="show.html">Instapaper</a></td>
+      <td data-role="feed-url">http://example.com/feed.rss</td>
+      <td data-role="feed-entries">22</td>
+      <td>
+        <a href="/feeds/1/edit">Edit feed</a>
+        <a rel="nofollow" data-method="delete" href="/feeds/1">Delete feed</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td data-role="feed-name"><a href="show.html">Giant Robots</a></td>
+      <td data-role="feed-url">http://example.com/giant-robots.rss</td>
+      <td data-role="feed-entries">10</td>
+      <td>
+        <a href="/feeds/1/edit">Edit feed</a>
+        <a rel="nofollow" data-method="delete" href="/feeds/1">Delete feed</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td data-role="feed-name"><a href="show.html">Accidental Tech Podcast</a></td>
+      <td data-role="feed-url">http://example.com/atp.rss</td>
+      <td data-role="feed-entries">35</td>
+      <td>
+        <a href="/feeds/1/edit">Edit feed</a>
+        <a rel="nofollow" data-method="delete" href="/feeds/1">Delete feed</a>
+      </td>
+    </tr>
+
+    <tr>
+      <td data-role="feed-name"><a href="show.html">Back to Work</a></td>
+      <td data-role="feed-url">http://example.com/b2w.rss</td>
+      <td data-role="feed-entries">220</td>
+      <td>
+        <a href="/feeds/1/edit">Edit feed</a>
+        <a rel="nofollow" data-method="delete" href="/feeds/1">Delete feed</a>
+      </td>
+    </tr>
+
+
+
+  </table>
+
+  <a href="/feeds/new">Add feed</a>
 
