@@ -1,0 +1,1096 @@
+HTTP/1.1 200 OK
+Last-Modified: Thu, 30 Jul 2015 19:13:09 GMT
+Transfer-Encoding: Identity
+Server: Apache
+Content-Type: text/xml
+X-Powered-By: PHP/5.3.2-1ubuntu4.18
+Connection: close
+Date: Fri, 31 Jul 2015 02:08:25 GMT
+Vary: Accept-Encoding, User-Agent
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>kottke.org</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/" />
+    <link rel="self" type="application/atom+xml" href="http://feeds.kottke.org/main" />
+    <id>tag:kottke.org,2009-08-11:05118</id>
+    <updated>2015-07-30T19:13:09Z</updated>
+    <subtitle>Jason Kottke&apos;s weblog, home of fine hypertext products</subtitle>
+
+    <generator uri="http://www.sixapart.com/movabletype/">Movable Type 4.2</generator>
+
+<entry>
+    <title>Hysterical Literature</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/hysterical-literature-1" />
+    <id>tag:kottke.org,2015://5.26615</id>
+
+    <published>2015-07-30T19:13:09Z</published>
+    <updated>2015-07-30T19:13:09Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Photographer Clayton Cubitt started a project in 2012 called <a href="http://hystericalliterature.com/">Hysterical Literature</a>. In each of the project's resulting videos, a female participant is filmed from the waist up reading a story of her choosing while she is stimulated to orgasm with a vibrator by Cubitt's partner, Katie James. His first subject was adult film star <a href="http://hystericalliterature.com/stoya">Stoya</a>; <a href="http://hystericalliterature.com/stoya-extended">her thoughts on the experience are here</a>.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/PQuT-Xfyk3o?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Vanity Fair recently sent writer Tony Bentley to <a href="http://www.vanityfair.com/culture/2015/07/hysterical-literature-clayton-cubitt-orgasm-while-reading">participate in an HL session</a>. Her reading choice? <a href="http://www.amazon.com/exec/obidos/ASIN/0141441267/ref=nosim/0sil8">The Portrait of a Lady</a> by Henry James.</p>
+
+<blockquote><p>With Katie now in position under the table, takeoff is imminent and the stakes are high: the sessions are a one-shot deal, no retakes, and no editing of the footage after the fact. It was not lost on me that a perfect triangulation between Clayton (auteur, cameraman), Katie (Hitachi artist), and me (the canvas) was in play, and it mirrored my internal mixture of curiosity, exhilaration, and stage fright. I couldn't help wondering if this adventure qualified as having a threesome with two strangers. But soon enough such intellectualizing sexualizing was rendered naught.</p>
+
+<p>"Rolling," says Clayton, and everything instantly disappeared except the book in my hands and the words on the page. The world was out and I was on.</p>
+
+<p>By the time I'd read two pages, I was struggling mightily to keep my countenance. "She spent half her time in thinking of beauty, bravery and mag-nan-nnn-im-im-ity..."</p></blockquote>
+
+<p>There's no nudity in the videos, but you might still find them NSFW.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/art">art</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Clayton Cubitt">Clayton Cubitt</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Katie James">Katie James</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/NSFW">NSFW</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Stoya">Stoya</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Tony Bentley">Tony Bentley</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>An appreciation of the ShackBurger</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/an-appreciation-of-the-shackburger" />
+    <id>tag:kottke.org,2015://5.26618</id>
+
+    <published>2015-07-30T16:58:55Z</published>
+    <updated>2015-07-30T16:58:55Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>From The Message is Medium Rare, <a href="http://www.themessageismediumrare.com/burgers/shakeshack">an appreciation of the ShackBurger</a>, "a straightforward, honest-to-goodness burger". It includes a review of the typography used by the restaurant:</p>
+
+<blockquote><p>These three typefaces artfully express the ethos of both the burger and the brand. Neutraface is the bun: sturdy, reliable and architectural. Futura is the patty: basic but bold. Galaxie is the lettuce: wavy, quirky and fresh. To the layperson this comparison may seem like a stretch, but designers know they are purposefully expressive.</p></blockquote>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/burgers">burgers</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/food">food</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/restaurants">restaurants</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Shake Shack">Shake Shack</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Maps of the United States of Swearing</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/maps-of-the-united-states-of-swearing" />
+    <id>tag:kottke.org,2015://5.26658</id>
+
+    <published>2015-07-30T14:19:33Z</published>
+    <updated>2015-07-30T14:19:33Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Most everyone in the United States swears, but <a href="https://stronglang.wordpress.com/2015/07/28/mapping-the-united-swears-of-america/">the specific words used vary by region</a>. For example, "fuck" is popular in California but not so much in Oklahoma, which is the "crap" epicenter of America. "Motherfucker" is unusually popular in Maine, as is "shit" in the Southeast, "douche" in Iowa, and "fuckboy" in Jersey.</p>
+
+<p><img src="http://also.kottke.org/misc/images/us-swearing-01.jpg" width="640" height="427" border="0" alt="United States of Swearing" /></p>
+
+<p><img src="http://also.kottke.org/misc/images/us-swearing-02.jpg" width="640" height="427" border="0" alt="United States of Swearing" /></p>
+
+<p><img src="http://also.kottke.org/misc/images/us-swearing-03.jpg" width="640" height="427" border="0" alt="United States of Swearing" /></p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/language">language</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/maps">maps</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/USA">USA</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Bridge at Q&apos;eswachaka</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-bridge-at-qeswachaka" />
+    <id>tag:kottke.org,2015://5.26656</id>
+
+    <published>2015-07-29T20:25:17Z</published>
+    <updated>2015-07-29T20:25:17Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Each year, using traditional Incan techniques, communities along a canyon in Peru rebuild a rope bridge that has been in continuous use for hundreds of years.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/dql-D6JQ1Bc?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>That you can take thousands of thin grass stalks and, through the careful application of engineering and hard work, make them strong enough to hold the weight of several people over a canyon still seems magical. (via <a href="http://www.cynical-c.com/">cynical-c</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/how to">how to</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Peru">Peru</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Cool furniture alert: the Fibonacci Shelf</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/cool-furniture-alert-the-fibonacci-shelf" />
+    <id>tag:kottke.org,2015://5.26651</id>
+
+    <published>2015-07-29T18:56:22Z</published>
+    <updated>2015-07-29T18:56:22Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><a href="http://www.designboom.com/project/fibonacci-shelf/">The Fibonacci Shelf</a> by designer Peng Wang might not be the most functional piece of furniture, but I still want one. </p>
+
+<p><img src="http://also.kottke.org/misc/images/fibonacci-shelf-01.jpg" width="640" height="752" border="0" alt="Fibonacci Shelf" /></p>
+
+<p><img src="http://also.kottke.org/misc/images/fibonacci-shelf-02.jpg" width="640" height="749" border="0" alt="Fibonacci Shelf" /></p>
+
+<p>The design of the shelf is based on the Fibonacci sequence of numbers (0, 1, 1, 2, 3, 5, 8, 13, 21, ...), which is related to the <a href="http://mathworld.wolfram.com/GoldenRectangle.html">Golden Rectangle</a>. When assembled, the Fibonacci Shelf resembles a series of Golden Rectangles partitioned into squares. (via <a href="http://www.ignant.de/">ignant</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/design">design</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Fibonacci sequence">Fibonacci sequence</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/mathematics">mathematics</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Peng Wang">Peng Wang</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Renaissance painting shows how watermelons looked before selective breeding</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/renaissance-painting-shows-how-watermelons-looked-before-selective-breeding" />
+    <id>tag:kottke.org,2015://5.26655</id>
+
+    <published>2015-07-29T17:07:33Z</published>
+    <updated>2015-07-29T17:07:33Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>A <a href="http://www.christies.com/lotfinder/paintings/giovanni-stanchi-watermelons-peaches-pears-a-5765893-details.aspx">painting of fruit</a> done by Giovanni Stanchi sometime in the mid 1600s shows that the watermelon has <a href="http://www.vox.com/2015/7/28/9050469/watermelon-breeding-paintings">changed somewhat</a> in the intervening 350 years.</p>
+
+<p><img src="http://also.kottke.org/misc/images/renaissance-watermelon.jpg" width="640" height="469" border="0" alt="Renaissance watermelon" /></p>
+
+<blockquote><p>That's because over time, we've bred watermelons to have the bright red color we recognize today. That fleshy interior is actually the watermelon's placenta, which holds the seeds. Before it was fully domesticated, that placenta lacked the high amounts of lycopene that give it the red color. Through hundreds of years of domestication, we've modified smaller watermelons with a white interior into the larger, lycopene-loaded versions we know today.</p></blockquote>
+
+<p>(via <a href="https://twitter.com/robinsloan">@robinsloan</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/art">art</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/food">food</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Giovanni Stanchi">Giovanni Stanchi</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Modernizing the NYC subway&apos;s ancient technologies</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/modernizing-the-nyc-subways-ancient-technologies" />
+    <id>tag:kottke.org,2015://5.26654</id>
+
+    <published>2015-07-29T16:16:01Z</published>
+    <updated>2015-07-29T16:16:01Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>This video from the MTA shows some of the vintage technologies that are still in use to control many of the NYC's subway lines and how they are upgrading (ve. ry. slow. ly.) to safer and more reliable computerized systems. Some of control systems are more than 80 years old.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/Mjx3S3UjmnA?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Whoa, after watching that, I'm shocked that the trains ever get anywhere at all. (via <a href="http://thekidshouldseethis.com/post/how-new-york-citys-subway-technologies-are-being-modernized">the kid should see this</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/NYC">NYC</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/subway">subway</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The sounds of Voyager&apos;s Golden Record</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-sounds-of-voyagers-golden-record" />
+    <id>tag:kottke.org,2015://5.26652</id>
+
+    <published>2015-07-29T14:43:24Z</published>
+    <updated>2015-07-29T14:43:24Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>When they were launched in 1977, the two Voyager spacecraft each carried with them <a href="https://en.wikipedia.org/wiki/Voyager_Golden_Record">a 12-nch gold-plated copper record</a> containing images and sounds of Earth for the viewing pleasure of whichever aliens happened across them. NASA has put the sounds of the Golden Record up on Soundcloud. Here are <a href="https://soundcloud.com/nasa/sets/golden-record-greetings-to-the">the greetings in 55 different languages</a> (from English<sup id="fnref:1438179182"><a href="#fn:1438179182" rel="footnote">1</a></sup> to Hittite to Polish to Thai):</p>
+
+<p><iframe width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/129056482&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></p>
+
+<p>And <a href="https://soundcloud.com/nasa/sets/golden-record-sounds-of">the sounds of Earth</a> (wild dogs, Morse code, trains):</p>
+
+<p><iframe width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/129030648&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe></p>
+
+<p>What's missing from the two playlists is UN Secretary General Kurt Waldheim's greeting:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/Bhuq9rNO_FQ?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>...as well as several other UN greetings overlaid with whale sounds:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/aV43X8KkbUk" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Due to copyright issues, also missing are the 90 minutes of music included on the record. Among the songs are Johnny B. Goode by Chuck Berry, The Rite of Spring by Stravinsky, and Dark Was the Night, Cold Was the Ground by Blind Willie Johnson. Here Comes the Sun by The Beatles was originally supposed to be included, but their record company wouldn't allow it, which is pretty much the most small-minded thing I have ever heard.</p>
+
+<ol><li class="footnote" id="fn:1438179182"><p>The English greeting was spoken by Nick Sagan when he was six years old. Nick is the son of Carl Sagan, who chaired the committee that selected the contents of the record.<a href="#fnref:1438179182" title="return to article">&#x21A9;</a><p></li></ol>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/audio">audio</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/music">music</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/NASA">NASA</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/space">space</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Voyager">Voyager</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Jon Stewart, political heavyweight</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/jon-stewart-political-heavyweight" />
+    <id>tag:kottke.org,2015://5.26649</id>
+
+    <published>2015-07-28T20:38:31Z</published>
+    <updated>2015-07-28T20:38:31Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Jon Stewart visited the White House. And Obama visited The Daily Show. That gives you <a href="http://www.politico.com/agenda/story/2015/07/jon-stewarts-secret-white-house-visits-000178">some idea of the influence</a> --on both sides of the aisle --Jon Stewart has built up over his tenure.</p>
+
+<blockquote><p>Jon Stewart slipped unnoticed into the White House in the midst of the October 2011 budget fight, summoned to an Oval Office coffee with President Barack Obama that he jokingly told his escort felt like being called into the principal's office.</p></blockquote>]]>
+
+<![CDATA[ <p><em>Syndicated from NextDraft. <a href="http://nextdraft.com/">Subscribe today</a> or <a href="https://itunes.apple.com/us/app/nextdraft-days-most-fascinating/id549358690">grab the iOS app</a>.</em></p>]]>
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Barack Obama">Barack Obama</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Jon Stewart">Jon Stewart</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/politics">politics</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Rappin&apos; to the Beat</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/rappin-to-the-beat" />
+    <id>tag:kottke.org,2015://5.26648</id>
+
+    <published>2015-07-28T19:32:56Z</published>
+    <updated>2015-07-28T19:32:56Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>In 1981, ABC's news program 20/20 aired a segment on the rising phenomenon of rap music called Rappin' to the Beat. It is painful to watch in parts, but ultimately worth it for the footage of street scenes and artist performances.</p>
+
+<p><iframe width="640" height="480" src="https://www.youtube.com/embed/onRKOcsf1J0?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Here is <a href="https://www.youtube.com/watch?v=qdPpfBw8U4A">part 2</a>. (via <a href="http://www.openculture.com/2015/07/abc-news-program-2020-introduces-america-to-rap-music-in-a-painfully-awkward-way-1981.html">open culture</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/music">music</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Why medieval painting babies were ugly</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/why-medieval-painting-babies-were-ugly" />
+    <id>tag:kottke.org,2015://5.26642</id>
+
+    <published>2015-07-28T17:03:36Z</published>
+    <updated>2015-07-28T17:03:36Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>I had no idea Ol' Dirty Bastard and medieval paintings had something in common. One of ODB's AKAs was also the reason <a href="http://www.vox.com/2015/7/8/8908825/ugly-medieval-babies">why babies in medieval paintings looked like ugly middle-aged men</a>:  Big Baby Jesus.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/xFcF_qfLHeQ?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<blockquote><p>I mean, this baby looks like he wants to tell you that a boat is just a money pit.</p></blockquote>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/art">art</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Biker lifts parked car out of bike lane</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/biker-lifts-parked-car-out-of-bike-lane" />
+    <id>tag:kottke.org,2015://5.26643</id>
+
+    <published>2015-07-28T14:26:57Z</published>
+    <updated>2015-07-28T14:26:57Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>How many times have you seen a car parked in the bike lane and wanted to somehow move it out of the way? Well, this very large cyclist felt that way and lifted this small car right out of his way.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/luNGjffDjCs?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>I would love to see someone do this to an NYPD cruiser.<sup id="fnref:1438092802"><a href="#fn:1438092802" rel="footnote">1</a></sup></p>
+
+<ol><li class="footnote" id="fn:1438092802"><p>It's a total cliche, but right now in NYC, I can almost guarantee there are 2 or 3 NYPD cars parked in the bike lane outside a Dunkin Donuts. I see this at least twice a week, just randomly walking around.<a href="#fnref:1438092802" title="return to article">&#x21A9;</a><p></li></ol>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/cycling">cycling</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>How bow-tie pasta is made...in slow motion</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/how-bow-tie-pasta-is-madein-slow-motion" />
+    <id>tag:kottke.org,2015://5.26640</id>
+
+    <published>2015-07-28T13:46:47Z</published>
+    <updated>2015-07-28T13:46:47Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>From Zerega Pasta, a video that shows, in slow motion, how farfalle (aka bow-tie pasta) is made at their factory.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/GQzBsOeTQSY?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Incredible combination of precision and quickness.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/how to">how to</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/slow motion">slow motion</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Pixar: The Design of Story</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/pixar-the-design-of-story" />
+    <id>tag:kottke.org,2015://5.26641</id>
+
+    <published>2015-07-27T22:07:25Z</published>
+    <updated>2015-07-27T22:07:25Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><img src="http://also.kottke.org/misc/images/design-pixar.jpg" width="640" height="411" border="0" alt="Design Pixar" /></p>
+
+<p>Pixar: The Design of Story is an <a href="http://www.cooperhewitt.org/events/upcoming-exhibitions/">upcoming exhibition</a> at the Cooper Hewitt National Design Museum here in NYC.</p>
+
+<blockquote><p>Through concept art from films such as Toy Story, Wall-E, Up, Brave, The Incredibles and Cars, among others, the exhibition will focus on Pixar's process of iteration, collaboration and research, and is organized into three key design principles: story, believability and appeal. The exhibition will be on view in the museum's immersive Process Lab --an interactive space that was launched with the transformed Cooper Hewitt in December 2014 --whose rotating exhibitions engage visitors with activities that focus on the design process, emphasizing the role of experimentation in design thinking and making.</p></blockquote>
+
+<p>More details are available <a href="http://www.cooperhewitt.org/2015/07/27/cooper-hewitt-to-present-exhibition-pixar-the-design-of-story-this-fall/">in the press release</a>. Definitely going to check this out and take the kids.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Cooper Hewitt Design Museum">Cooper Hewitt Design Museum</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/design">design</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/museums">museums</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/NYC">NYC</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Pixar">Pixar</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Powers of Ten flipbook</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/powers-of-ten-flipbook" />
+    <id>tag:kottke.org,2015://5.26638</id>
+
+    <published>2015-07-27T21:17:51Z</published>
+    <updated>2015-07-27T21:17:51Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Using images found on the internet through Google's visually similar images feature, NASA, U.S. Geological Survey, and various mapping services, Kelli Anderson <a href="http://www.kellianderson.com/remixed/">recreated</a> part of the Eames' iconic <a href="http://kottke.org/10/10/powers-of-ten">Powers of Ten</a> as a flipbook. Watch a video here:</p>
+
+<p><iframe src="https://player.vimeo.com/video/134406960?title=0&byline=0&portrait=0" width="640" height="461" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>Or <a href="http://www.kellianderson.com/remixed/">play around with a virtual flipbook</a> at Anderson's site. This could not possibly be anymore in my wheelhouse. <a href="http://kellianderson.com/blog/2015/07/the-internet-is-really-big/">Here's the nitty gritty</a> on how she made it happen.</p>
+
+<blockquote><p>The inspiration for making discontinuous-bits-of-culture into something continuous goes back to 2011. Some of my friends camped out on a sidewalk to see Christian Marclay's The Clock. Like a loser with a deadline, I missed out-only catching it years later at MoMA. In the day-long film, Marclay recreates each minute of the 24-our day using clips from films featuring the current time-on a clock or watch. It runs in perfect synchronization with the audience's day (so: while a museum crowd slumps sleepily in their chairs at 6am, starlets hit snooze on the clocks onscreen.)</p></blockquote>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Charles and Ray Eames">Charles and Ray Eames</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Kelli Anderson">Kelli Anderson</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/long zoom">long zoom</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Powers of Ten">Powers of Ten</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/remix">remix</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Trailer for a Steve Jobs documentary</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/trailer-for-a-steve-jobs-documentary" />
+    <id>tag:kottke.org,2015://5.26635</id>
+
+    <published>2015-07-27T18:32:44Z</published>
+    <updated>2015-07-27T18:32:44Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>There's a documentary on Steve Jobs coming out called Steve Jobs: The Man in the Machine. The director is Alex Gibney, who directed the excellent Going Clear (about Scientology), We Steal Secrets (about Wikileaks), and Enron: The Smartest Guys in the Room. The trailer:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/SrlPyKxdMX4?rel=0" frameborder="0" allowfullscreen></iframe></p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Alex Gibney">Alex Gibney</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Steve Jobs">Steve Jobs</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/trailers">trailers</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Thom Yorke sings a pre-Radiohead version of High and Dry</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/thom-yorke-sings-a-pre-radiohead-version-of-high-and-dry" />
+    <id>tag:kottke.org,2015://5.26587</id>
+
+    <published>2015-07-27T17:59:04Z</published>
+    <updated>2015-07-27T17:59:04Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>While the members of On A Friday, the band that later became Radiohead, were on a break as they attended college, Thom Yorke was a member of a band called <a href="https://en.wikipedia.org/wiki/Headless_Chickens_%28UK_band%29">Headless Chickens</a>. This is a video of a circa-1989 performance by the band of "High and Dry", a song that later on Radiohead's second album, The Bends, released in 1995.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/UgEJiIAeOwk?rel=0" frameborder="0" allowfullscreen></iframe></p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/music">music</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Radiohead">Radiohead</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Thom Yorke">Thom Yorke</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The origin of sci-fi movie sounds</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-origin-of-sci-fi-movie-sounds" />
+    <id>tag:kottke.org,2015://5.26633</id>
+
+    <published>2015-07-24T21:26:28Z</published>
+    <updated>2015-07-24T21:26:28Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>From Aaron Reese at Hopes&amp;Fears, <a href="http://www.hopesandfears.com/hopes/culture/film/214987-sci-fi-movie-sound-effects">a piece on sci-fi movie sound effects</a>. It's chock full of interesting tidbits, like where King Kong's chest-beating sound came from:</p>
+
+<blockquote><p>Initial attempts hitting a fixed kettle drum with paddled-drumsticks didn't work, with Spivak saying the sound wasn't "fleshy" enough. An experiment beating the floor failed as well. So Spivak decided to beat one of his assistant's chests with drumsticks instead, saying "If wood will not take the place of flesh, then let's use flesh." Sure enough, this was the sound used for production.</p></blockquote>
+
+<p>The stabbing noise in Psycho is a knife plunging into a melon:</p>
+
+<blockquote><p>In a recording studio, prop man [Bob] Bone auditioned the melons for Hitchcock, who sat listening with his eyes closed. When the table was littered with shredded fruit, Hitchcock opened his eyes, and intoned simply: "Casaba."</p></blockquote>
+
+<p>And my favorite, from Terminator 2:</p>
+
+<blockquote><p>In Robert Patrick's T-1000 prison break scene, the robot phases through the cell bars with a slurpy metallic sound. Oscar-winning sound designer Gary Rydstrom revealed the effect was achieved by a simple solution from the sound of dog food being slowly sucked out of the can.</p></blockquote>
+
+<p>See also <a href="http://kottke.org/15/05/a-short-video-tribute-to-the-sounds-of-star-wars">a short video tribute to the sounds of Star Wars</a>.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Aaron Reese">Aaron Reese</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/audio">audio</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/King Kong">King Kong</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Psycho">Psycho</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Terminator 2">Terminator 2</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Art of the Car Chase</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-art-of-the-car-chase" />
+    <id>tag:kottke.org,2015://5.26628</id>
+
+    <published>2015-07-24T19:09:56Z</published>
+    <updated>2015-07-24T19:09:56Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Casper Christensen cut together footage from dozens of movie car chases into one big coherent chase. Well, as coherent as you can get when you're dealing with car chases.</p>
+
+<p><iframe src="https://player.vimeo.com/video/134363607?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>There's some fun and clever editing in here...I particularly enjoyed the stitching together of Indiana Jones and Axel Foley. And I loved the brief clip of <a href="https://en.wikipedia.org/wiki/C%27%C3%A9tait_un_rendez-vous">C'&eacute;tait un rendez-vous</a>, which if you haven't seen it, <a href="https://vimeo.com/92541091">is a quick and thrilling watch</a>.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/cars">cars</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Casper Christensen">Casper Christensen</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Muji&apos;s minimalist white toaster</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/mujis-minimalist-white-toaster" />
+    <id>tag:kottke.org,2015://5.26623</id>
+
+    <published>2015-07-24T17:53:26Z</published>
+    <updated>2015-07-24T17:53:26Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>I think I'm a little bit in love with Muji's white toaster, designed --along with <a href="http://www.dezeen.com/2015/07/22/naoto-fukasawa-minimal-kitchen-appliances-muji-toaster-kettle/">a few other new items</a> --by Naoto Fukasawa.</p>
+
+<p><img src="http://also.kottke.org/misc/images/muji-toaster.jpg" width="641" height="319" border="0" alt="Muji Toaster" /></p>
+
+<p>Fukasawa also designed <a href="http://www.amazon.com/exec/obidos/ASIN/B00HKZEJM8/ref=nosim/0sil8">Muji's wall-mounted CD player</a>. The toaster is only available at select stores in the US for now, but can be found in the UK and Europe in a few months. Or <a href="http://www.ebay.com/itm/MUJI-Pop-up-Toaster-25-16-5-19-5cm-15236732-/171851932602?pt=LH_DefaultDomain_0&amp;hash=item28032c63ba">buy it now on eBay</a>. (via <a href="https://twitter.com/daveg">@daveg</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/design">design</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Muji">Muji</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Naoto Fukasawa">Naoto Fukasawa</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Tree of 40 Fruit</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/tree-of-40-fruit" />
+    <id>tag:kottke.org,2015://5.26630</id>
+
+    <published>2015-07-24T16:48:10Z</published>
+    <updated>2015-07-24T16:48:10Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Artist <a href="http://www.samvanaken.com/">Sam Van Aken</a> is using grafting to <a href="http://www.treeof40fruit.com/">create trees</a> that bear 40 different kinds of fruit. National Geographic recently featured Van Aken's Tree of 40 Fruit project:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/ik3l4U_17bI?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<blockquote><p>The grafting process involves slicing a bit of a branch with a bud from a tree of one of the varieties and inserting it into a slit in a branch on the "working tree," then wrapping the wound with tape until it heals and the bud starts to grow into a new branch. Over several years he adds slices of branches from other varieties to the working tree. In the spring the "Tree of 40 Fruit" has blossoms in many hues of pink and purple, and in the summer it begins to bear the fruits in sequence --Van Aken says it's both a work of art and a time line of the varieties' blossoming and fruiting. He's created more than a dozen of the trees that have been planted at sites such as museums around the U.S., which he sees as a way to spread diversity on a small scale.</p></blockquote>
+
+<p>(via <a href="http://www.thisiscolossal.com/2015/07/this-grafted-tree-by-artist-sam-van-aken-grows-over-40-different-kinds-of-fruit/">colossal</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/art">art</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/biology">biology</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Sam Van Aken">Sam Van Aken</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/science">science</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Human body hair flow maps</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/human-body-hair-flow-maps" />
+    <id>tag:kottke.org,2015://5.26627</id>
+
+    <published>2015-07-24T15:53:01Z</published>
+    <updated>2015-07-24T15:53:01Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><img src="http://also.kottke.org/misc/images/human-hair-flow-map.jpg" width="640" height="515" border="0" alt="Human Hair Flow Map" /></p>
+
+<p>In 1902, Dr. Walter Kidd published this map of "human hair streams", <a href="http://longstreet.typepad.com/thesciencebookstore/2014/02/maps-of-hair-rivers.html">showing in which directions hair in various parts of the human body grows</a>.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/maps">maps</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Designers&apos; summer reading picks</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/designers-summer-reading-picks" />
+    <id>tag:kottke.org,2015://5.26626</id>
+
+    <published>2015-07-24T14:07:37Z</published>
+    <updated>2015-07-24T14:07:37Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><a href="http://www.wired.com/?p=1804454">Wired asked</a> a bunch of noted designers --Paola Antonelli, John Maeda, Jessica Walsh, Milton Glaser, etc. --for their summer reading picks. Among their selections were <a href="http://www.amazon.com/exec/obidos/ASIN/0061339202/ref=nosim/0sil8">Flow</a> by Mihaly Csikszentmihalyi, <a href="http://www.amazon.com/exec/obidos/ASIN/1899858113/ref=nosim/0sil8">An Engineer Imagines</a> by Peter Rice, <a href="http://www.amazon.com/exec/obidos/ASIN/0679737251/ref=nosim/0sil8">The Success and Failure of Picasso</a> by John Berger, and <a href="http://abookapart.com/products/just-enough-research">Just Enough Research</a> by Erika Hall.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/books">books</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/design">design</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Magic Mike XXL embraces strip club classics</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/magic-mike-xxl-embraces-strip-club-classics" />
+    <id>tag:kottke.org,2015://5.26624</id>
+
+    <published>2015-07-23T20:44:50Z</published>
+    <updated>2015-07-23T20:44:50Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>In Pitchfork, Susan Shepard writes about <a href="http://pitchfork.com/thepitch/847-pony-closer-and-magic-mike-xxls-embrace-of-strip-club-classics/">how Magic Mike XXL uses strip club music to full advantage</a>.</p>
+
+<blockquote><p>MMXXL functions more like a musical in that it uses the dance sequences deliberately to advance the plot; Mike doesn't talk about wanting to get the band back together, he dances about it when "Pony" comes on in his workshop. Big Dick Richie finds the heart of his stripper character dancing to "I Want It That Way". Malik challenges Mike to "Sex You". And ultimately, they all find out something about themselves when they create new routines to new songs for the finale. It could transition seamlessly to the stage. They're even already acting out the lyrics, which are for the most part of "this is what I want to do to you" tradition of R&amp;B.</p>
+
+<p>The film gets at the heart of strip club culture with its scenes at Domina, the exclusive club run by Mike's former lover and working partner, Rome. All the best strip club ideas come from black clubs, specifically those in the South. Every good innovation in strip club dancing, music, and costume styles started in Atlanta or Houston or Miami clubs. The way the Florida dancers feel when they walk in and see Augustus, Andre, and Malik outdance and outperform them is exactly what it feels like to walk into Magic City from the Cheetah. Here is the future, here is how far behind it you are with your fireman routines and Kiss songs.</p></blockquote>
+
+<p>Having never been to a strip club in my entire life (WHAT?!! I know! I know!), I had no idea that Nine Inch Nails' Closer was a strip club staple.</p>
+
+<blockquote><p>My very first stage performance was to the Revolting Cocks' version of "Do Ya Think I'm Sexy" and Nine Inch Nails' "Closer", about a month after it had come out. It is one of those songs strippers fight over performing to because it's that good and gets such a crowd response. "Closer" might as well be strip club furniture.</p></blockquote>
+
+<p>But it makes sense. Closer is one of the catchiest pop songs ever made. Shortly after it came out, I remember going to an on-campus party at which a friend of mine was DJing. He was playing mostly dance music --some club, some top 40ish, and some electronica --but threw on Closer for the benefit of a friend of ours who was a big industrial and NIN fan. Everyone loved it and got out onto the dance floor: the jocks, the ravers, the sorority girls, the physics club geeks. Our friend wasn't too happy about it though. Somehow, Nine Inch Nails now belonged to everyone. Cultural appropriation is a biiii....</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Magic Mike XXL">Magic Mike XXL</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/music">music</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Nine Inch Nails">Nine Inch Nails</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Susan Shepard">Susan Shepard</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Waffle House Index</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-waffle-house-index-1" />
+    <id>tag:kottke.org,2015://5.26622</id>
+
+    <published>2015-07-23T19:33:16Z</published>
+    <updated>2015-07-23T19:33:16Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><a href="https://en.m.wikipedia.org/wiki/Waffle_House_Index">The Waffle House Index</a> is an informal metric used by FEMA administrator Craig Fugate to evaluate how bad a storm is. Basically, whether the Waffle House in town is open or serving a limited menu can tell you something about how bad the storm was and how much recovery assistance is necessary.</p>
+
+<blockquote><p>If you get there and the Waffle House is closed? That's really bad. That's where you go to work.</p></blockquote>
+
+<p>See also <a href="http://bigmacindex.org/">The Economist's Big Mac Index</a> and other <a href="http://kottke.org/tag/odd%20economic%20indicators">odd economic indicators</a>. (via <a href="https://twitter.com/naveen">@naveen</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/economics">economics</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/FEMA">FEMA</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/food">food</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/odd economic indicators">odd economic indicators</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/restaurants">restaurants</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Waffle House">Waffle House</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Ultimate commentary on Raiders of the Lost Ark</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/ultimate-commentary-on-raiders-of-the-lost-ark" />
+    <id>tag:kottke.org,2015://5.26611</id>
+
+    <published>2015-07-23T19:26:41Z</published>
+    <updated>2015-07-23T19:26:41Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>If you are a fan of Raiders of the Lost Ark --and who isn't? --then this is your holy grail: a feature-length commentary on the movie by Jamie Benning that includes seemingly every tidbit related to the film, including deleted scenes, audio commentary from the cast and crew, behind the scenes video, and much more. An incredible resource in understanding the film.</p>
+
+<p><iframe src="https://player.vimeo.com/video/36011979?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>Benning has also done similarly excellent commentaries for <a href="https://vimeo.com/68400837">Jaws</a>, <a href="https://vimeo.com/32442801">Star Wars</a>, <a href="https://vimeo.com/36158111">Empire Strikes Back</a>, and <a href="https://vimeo.com/36474256">Return of the Jedi</a>. (via <a href="https://twitter.com/drwave">@drwave</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Indiana Jones">Indiana Jones</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Jamie Benning">Jamie Benning</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Star Wars">Star Wars</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>New cache of historical footage on YouTube</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/new-cache-of-historical-footage-on-youtube" />
+    <id>tag:kottke.org,2015://5.26621</id>
+
+    <published>2015-07-23T17:23:28Z</published>
+    <updated>2015-07-23T17:23:28Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>The Associated Press and British Movietone <a href="http://www.nytimes.com/2014/07/23/business/media/youtubes-historical-footage-expands-both-serious-and-silly.html">are uploading 17,000 hours of archival news footage</a>, some of dating back to the late 19th century. The videos can be found on the <a href="https://www.youtube.com/channel/UCHTK-2W11Vh1V4uwofOfR4w/featured">AP Archive</a> and <a href="https://www.youtube.com/channel/UCHq777_waKMJw6SZdABmyaA">British Movietone</a> channels. Some notable videos from the collection follow. Coverage of the Hindenberg disaster:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/rWeO1q0gHJE?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>The celebration of VE Day in London:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/NEavcsrMoMw?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Coco Chanel fashion show from 1932:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/rdSeJbSgRlA?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Martin Luther King Jr. and marchers being arrested in Selma:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/RFeHCG8e5J8" frameborder="0" allowfullscreen></iframe></p>
+
+<p>See also <a href="https://www.youtube.com/user/britishpathe">British Pathe</a>.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/journalism">journalism</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/YouTube">YouTube</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Star Wars-style opening crawls of the day&apos;s news</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/star-wars-style-opening-crawls-of-the-days-news" />
+    <id>tag:kottke.org,2015://5.26620</id>
+
+    <published>2015-07-23T16:00:27Z</published>
+    <updated>2015-07-23T16:00:27Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Every day, a program written by Julien Deswaef selects a war-related news item from the NY Times, formats it in the style of the infamous Star Wars opening crawl (complete with John Williams' score), and posts the results <a href="https://www.youtube.com/channel/UC64gD1NN-GE_tfd0swtxcOA">to YouTube</a>.</p>
+
+<p>Published yesterday, the crawl for Episode XXVII was taken from <a href="http://www.nytimes.com/2015/07/22/us/politics/obama-speaking-to-veterans-defends-diplomacy-over-war-in-iran-deal.html">a NY Times article</a> about an Obama speech about the Iranian nuclear deal.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/eVSAmPGHTpE?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p><a href="http://p.xuv.be/making-of-word-wars-news-from-the-empire">Here's how the project was made</a> and if you'd like to try it yourself, <a href="https://github.com/xuv/wordwars">grab the source code</a>. (via <a href="http://prostheticknowledge.tumblr.com/post/124608840116/word-wars-coding-project-by-julien-deswaef">prosthetic knowledge</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/journalism">journalism</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Julien Deswaef">Julien Deswaef</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/remix">remix</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Star Wars">Star Wars</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/war">war</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The top 10 most beautiful movies of all time</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-top-10-most-beautiful-movies-of-all-time" />
+    <id>tag:kottke.org,2015://5.26616</id>
+
+    <published>2015-07-23T15:19:14Z</published>
+    <updated>2015-07-23T15:19:14Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Ok, so narrowing down all of the beautifully shot movies in the world to a list of just 10 is absurd, but to their credit, the gang at Cinefix manage to mention more than 50 or 60 movies in their top 10 review. If you've only seen even a few of these, you're doing well.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/kj73aDoeFdk?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>Manhattan, Citizen Kane, The Fall, 2001, Hero, The Tree of Life. Damn.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/best of">best of</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/lists">lists</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Copy and paste, but for DNA</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/copy-and-paste-but-for-dna" />
+    <id>tag:kottke.org,2015://5.26614</id>
+
+    <published>2015-07-22T21:25:31Z</published>
+    <updated>2015-07-22T21:25:31Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>No hunger. No pollution. No disease. Wired's Amy Maxmen welcomes you to the age of copy and paste DNA editing <a href="http://www.wired.com/2015/07/crispr-dna-editing-2/">and the end of life as we know it</a>.</p>
+
+<blockquote><p>Genome editing started with just a few big labs putting in lots of effort, trying something 1,000 times for one or two successes. Now it's something that someone with a BS and a couple thousand dollars' worth of equipment can do. What was impractical is now almost everyday. That's a big deal.</p></blockquote>
+
+<p>[I recently listened to <a href="http://www.radiolab.org/story/antibodies-part-1-crispr/">Radiolab's show on Crispr</a>. Recommended. -kottke]</p>]]>
+
+<![CDATA[ <p><em>Syndicated from NextDraft. <a href="http://nextdraft.com/">Subscribe today</a> or <a href="https://itunes.apple.com/us/app/nextdraft-days-most-fascinating/id549358690">grab the iOS app</a>.</em></p>]]>
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Amy Maxmen">Amy Maxmen</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/biology">biology</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/DNA">DNA</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/genetics">genetics</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/science">science</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Giant thread screen is recreating Instagram photos</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/giant-thread-screen-is-recreating-instagram-photos" />
+    <id>tag:kottke.org,2015://5.26613</id>
+
+    <published>2015-07-22T20:02:50Z</published>
+    <updated>2015-07-22T20:02:50Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><img src="http://also.kottke.org/misc/images/f21-thread-screen.jpg" width="640" height="679" border="0" alt="F21 Thread Screen" /></p>
+
+<p>Clothing retailer Forever 21 hired product and prototyping company <a href="http://breakfastny.com/">Breakfast</a> to build them <a href="http://f21threadscreen.com/">a giant screen made out of spools of thread to "print" people's Instagram photos</a>. <a href="http://breakfastny.com/thread-screen">The screen</a>, which Breakfast bills as "one of the most complex machines ever built for a brand", weighs 2000 pounds, measures 11 ft high, 9 ft wide, and 3 ft deep, and has a resolution of 80x80 spool pixels. Here's how they made it:</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/dvDHNDkO-Qo?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>If you want to give it a try, just tag an Instagram photo with #F21ThreadScreen and it'll print it out for you (<a href="https://www.youtube.com/watch?v=Staau2OCVuY">watch the live stream</a>). Prior art alert: the first time I remember seeing something like this was <a href="http://www.smoothware.com/danny/woodenmirror.html">Daniel Rozin's Wooden Mirror (1999)</a> at ITP (<a href="https://vimeo.com/7820888">video here</a>).</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Forever 21">Forever 21</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Instagram">Instagram</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/photography">photography</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>&quot;It&apos;s a Unix system, I know this&quot;</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/its-a-unix-system-i-know-this" />
+    <id>tag:kottke.org,2015://5.26610</id>
+
+    <published>2015-07-22T18:48:45Z</published>
+    <updated>2015-07-22T18:48:45Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><img src="http://also.kottke.org/misc/images/jurassic-park-os.jpg" width="640" height="587" border="0" alt="Jurassic Park OS" /></p>
+
+<p>Hold onto your butts, gang... I just found out, via Pixar's <a href="https://twitter.com/drwave/status/623901540718264320">Michael B. Johnson</a>, that the 3D file manager that Lex uses in Jurassic Park --<a href="https://www.youtube.com/watch?v=dFUlAQZB9Ng">"It's a Unix system, I know this"</a> --was a real thing. <a href="http://www.siliconbunny.com/fsn-the-irix-3d-file-system-tool-from-jurassic-park/">FSN (File System Navigator)</a> was a demo tool for Silicon Graphics' IRIX operating system that you could download from their web site.</p>
+
+<p>P.S. In that same thread, <a href="https://twitter.com/drwave/status/623702439066214405">Johnson shares</a> that his office was the inspiration for Dennis Nedry's work area.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Jurassic Park">Jurassic Park</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Michael B. Johnson">Michael B. Johnson</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Silicon Graphics">Silicon Graphics</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Unix">Unix</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>New York City in motion, 25 years ago</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/new-york-city-in-motion-25-years-ago" />
+    <id>tag:kottke.org,2015://5.26607</id>
+
+    <published>2015-07-22T17:22:38Z</published>
+    <updated>2015-07-22T17:22:38Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>This video was shot in NYC on July 18, 1990, mostly in Times Square and Central Park.</p>
+
+<p><iframe width="640" height="480" src="https://www.youtube.com/embed/SyOL7Pgbrt0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>The first 30 seconds of the video (stumbling drunk, trash digger, overheating car) is pretty much a perfect representation of how NYC felt to many at the time. <a href="https://en.wikipedia.org/wiki/Squeegee_man#New_York_City">A squeegee man</a> can also been seen at work near the end of the video.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/NYC">NYC</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Slow motion lightning</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/slow-motion-lightning" />
+    <id>tag:kottke.org,2015://5.26606</id>
+
+    <published>2015-07-22T16:01:28Z</published>
+    <updated>2015-07-22T16:01:28Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Slow motion video of a South Dakota lightning storm shot at 2000 fps.</p>
+
+<p><iframe src="https://player.vimeo.com/video/133398724?color=ffffff" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<p>I love the little tendrils "sent out" by the clouds before a big strike happens. It's like nature is searching for the optimal path for the energy to travel and then BAM!</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/slow motion">slow motion</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/weather">weather</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Good Dinosaur</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-good-dinosaur" />
+    <id>tag:kottke.org,2015://5.26605</id>
+
+    <published>2015-07-22T13:49:42Z</published>
+    <updated>2015-07-22T13:49:42Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>For the first time since 2005, Pixar didn't release a movie last year but are doubling up this year with Inside Out and The Good Dinosaur. Here's the trailer for The Good Dinosaur, which looks like much more of a just-for-kids movie than Inside Out.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/O-RgquKVTPE" frameborder="0" allowfullscreen></iframe></p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Pixar">Pixar</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/The Good Dinosaur">The Good Dinosaur</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/trailers">trailers</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The top 10 best running gags on Arrested Development</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-top-10-best-running-gags-on-arrested-development" />
+    <id>tag:kottke.org,2015://5.26563</id>
+
+    <published>2015-07-21T19:30:20Z</published>
+    <updated>2015-07-21T19:30:20Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p><iframe width="640" height="360" src="https://www.youtube.com/embed/TsrxMrTQLJM?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<blockquote><p>Still, where did the lighter fluid come from?</p></blockquote>
+
+<blockquote><p>Sister is my new mother, Mother.</p></blockquote>
+
+<blockquote><p>I'm afraid I just blue myself.</p></blockquote>
+
+<p>I'm about halfway through season two of Arrested Development again on Netflix and it might be the best show ever on television. I'm not even kidding.</p>
+
+<p><strong>Update:</strong> NPR has been <a href="http://apps.npr.org/arrested-development/">obsessively cataloging the show's running gags here</a>. Holy shit, the extensive foreshadowing of Buster losing his hand! This show is amazing. (via <a href="https://twitter.com/Nick__Vance">@Nick__Vance</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Arrested Development">Arrested Development</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/best of">best of</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/lists">lists</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/TV">TV</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Disapproval Matrix</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-disapproval-matrix" />
+    <id>tag:kottke.org,2015://5.26567</id>
+
+    <published>2015-07-21T17:48:52Z</published>
+    <updated>2015-07-21T17:48:52Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Ann Friedman recently created <a href="http://annfriedman.com/post/49152967734/in-my-ongoing-quest-for-the-perfect-framework-for">The Disapproval Matrix</a> to better understand where criticism comes from and how to deal with it.</p>
+
+<p><img src="http://also.kottke.org/misc/images/disapproval-matrix.jpg" width="640" height="681" border="0" alt="Disapproval Matrix" /></p>
+
+<blockquote><p>Frenemies: Ooooh, this quadrant is tricky. These people really know how to hurt you, because they know you personally or know your work pretty well. But at the end of the day, their criticism is not actually about your work-it's about you personally. And they aren't actually interested in a productive conversation that will result in you becoming better at what you do. They just wanna undermine you. Dishonorable mention goes to The Hater Within, aka the irrational voice inside you that says you suck, which usually falls into this quadrant. Tell all of these fools to sit down and shut up.</p></blockquote>
+
+<p>See also <a href="http://nymag.com/thecut/2013/01/haters-gonna-hate-whats-a-woman-to-do.html">Friedman's Hierarchy of Haters</a>.</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Ann Friedman">Ann Friedman</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>How to make a Hattori Hanzo sword from Kill Bill</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/how-to-make-a-hattori-hanzo-sword-from-kill-bill" />
+    <id>tag:kottke.org,2015://5.26577</id>
+
+    <published>2015-07-21T14:55:54Z</published>
+    <updated>2015-07-21T14:55:54Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>Man at Arms is a YouTube show in which real-life weapons from movies and TV shows are recreated. Recently they made the Bride's Hattori Hanzo sword from Kill Bill. They started from scratch by building a furnace from before the Edo period (before 1603) to smelt the iron ore.</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/CNuEDtnVdeM?rel=0" frameborder="0" allowfullscreen></iframe></p>
+
+<p>I know zero about swords, but it looks like these guys really did their homework in making as close to a traditional katana blade as they could. (via <a href="http://devour.com/">devour</a>)</p>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/how to">how to</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/Kill Bill">Kill Bill</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/movies">movies</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>Sea level may rise much faster than previously predicted</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/sea-level-may-rise-much-faster-than-previously-predicted" />
+    <id>tag:kottke.org,2015://5.26603</id>
+
+    <published>2015-07-21T13:54:36Z</published>
+    <updated>2015-07-21T13:54:36Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>James Hansen, NASA's former top climate scientist, is joined by 16 other leading climate scientists in a paper with some alarming conclusions. The gist is that the glaciers in Antartica and Greenland are melting so much faster than previously predicted that the global sea level will rise more than 10 feet in as little as 50 years, rendering many coastal cities uninhabitable. <a href="http://www.slate.com/blogs/the_slatest/2015/07/20/sea_level_study_james_hansen_issues_dire_climate_warning.html">From Eric Holthaus in Slate</a>:</p>
+
+<blockquote><p>The study --written by James Hansen, NASA's former lead climate scientist, and 16 co-authors, many of whom are considered among the top in their fields --concludes that glaciers in Greenland and Antarctica will melt 10 times faster than previous consensus estimates, resulting in sea level rise of at least 10 feet in as little as 50 years. The study, which has not yet been peer reviewed, brings new importance to a feedback loop in the ocean near Antarctica that results in cooler freshwater from melting glaciers forcing warmer, saltier water underneath the ice sheets, speeding up the melting rate. Hansen, who is known for being alarmist and also right, acknowledges that his study implies change far beyond previous consensus estimates. In a conference call with reporters, he said he hoped the new findings would be "substantially more persuasive than anything previously published." I certainly find them to be.</p></blockquote>
+
+<p>That's the thing about nonlinear systems like the Earth's climate: things happen gradually, then suddenly. This is much more terrifying to me than <a href="http://kottke.org/15/07/the-impending-pacific-northwest-earthquake">the Pacific Northwest earthquake</a>. BTW, as a reminder, <a href="http://flood.firetree.net/?ll=40.7072,-73.9646&amp;zoom=11&amp;m=3">here's what NYC and the surrounding area looks like with 10 more feet of water</a>. Goodbye JFK Airport.</p>
+
+<p><strong>Update:</strong> The paper is <a href="http://www.atmos-chem-phys-discuss.net/15/20059/2015/acpd-15-20059-2015.html">now available online</a>.</p>
+
+<p><strong>Update:</strong> In the New Yorker, <a href="http://www.newyorker.com/news/daily-comment/a-new-climate-change-danger-zone">Elizabeth Kolbert provides</a> a bit more explanation and context about Hansen's paper.</p>
+
+<blockquote><p>What the new paper does is look back at a previous relatively warm period, known as the Eemian, or, even less melodically, as Marine Isotope Stage 5e, which took place before the last ice age, about a hundred and twenty thousand years ago. During the Eemian, average global temperatures seem to have been only about one degree Celsius above today's, but sea levels were several metres higher. The explanation for this, the new paper suggests, is that melt from Antarctica is a non-linear process. Its rate accelerates as fresh water spills off the ice sheet, producing a sort of "lid" that keeps heat locked in the ocean and helps to melt more ice from below. From this, the authors conclude that "rapid sea level rise may begin sooner than is generally assumed," and also that a temperature increase of two degrees Celsius would put the world well beyond "danger."</p>
+
+<p>"We conclude that the 2&deg;C global warming 'guardrail,' affirmed in the Copenhagen Accord, does not provide safety, as such warming would likely yield sea level rise of several metres along with numerous other severely disruptive consequences for human society and ecosystems," Hansen and his colleagues wrote.</p></blockquote>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/Eric Holthaus">Eric Holthaus</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/global warming">global warming</a>&nbsp;&nbsp; <a href="http://kottke.org/tag/James Hansen">James Hansen</a>]]>
+    </content>
+</entry>
+
+<entry>
+    <title>The Power of Empathy</title>
+    <link rel="alternate" type="text/html" href="http://kottke.org/15/07/the-power-of-empathy" />
+    <id>tag:kottke.org,2015://5.26571</id>
+
+    <published>2015-07-21T01:45:18Z</published>
+    <updated>2015-07-21T01:45:18Z</updated>
+
+    <author>
+        <name>Jason Kottke</name>
+        <uri>http://www.kottke.org</uri>
+    </author>
+    <content type="html" xml:lang="en" xml:base="http://kottke.org/">
+        <![CDATA[<p>A nice short animated video on the power of empathy and how it differs from sympathy.</p>
+
+<p><iframe src="https://player.vimeo.com/video/81492863?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+
+<blockquote><p>Rarely can a response make something better. What makes something better is connection.</p></blockquote>
+
+<p>Related: <a href="http://www.nytimes.com/2015/07/12/opinion/sunday/empathy-is-actually-a-choice.html">Empathy is a Choice</a>.</p>
+
+<blockquote><p>Some kinds of people seem generally less likely to feel empathy for others --for instance, powerful people. An experiment conducted by one of us, Michael Inzlicht, along with the researchers Jeremy Hogeveen and Sukhvinder Obhi, found that even people temporarily assigned to high-power roles showed brain activity consistent with lower empathy.</p>
+
+<p>But such experimental manipulations surely cannot change a person's underlying empathic capacity; something else must be to blame. And other research suggests that the blame lies with a simple change in motivation: People with a higher sense of power exhibit less empathy because they have less incentive to interact with others.</p></blockquote>]]>
+
+
+
+<![CDATA[ <strong>Tags:</strong> <a href="http://kottke.org/tag/video">video</a>]]>
+    </content>
+</entry>
+
+
+
+</feed>

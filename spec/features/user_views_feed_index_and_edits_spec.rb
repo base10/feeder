@@ -4,7 +4,7 @@ feature "User views feeds and edits feed" do
   scenario "successfully" do
     user = create(:user)
     feed = create(:feed, user: user)
-    other_feed = create(:feed)
+    other_feed = create(:feed, user: create(:user))
 
     visit root_path(as: user)
     expect(page).to have_feed(feed.name)
