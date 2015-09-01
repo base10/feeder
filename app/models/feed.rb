@@ -38,8 +38,8 @@ class Feed < ActiveRecord::Base
 
   def connection
     Faraday.new(url: url) do |faraday|
-      faraday.adapter Faraday.default_adapter
-      faraday.response :logger
+      faraday.use Faraday::Adapter::NetHttp
+      faraday.use Faraday::Response::Logger, logger
       faraday.use FaradayMiddleware::FollowRedirects, limit: RETRY_LIMIT
     end
   end

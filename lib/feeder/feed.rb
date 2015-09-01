@@ -7,6 +7,9 @@ class Feeder::Feed
   require "faraday_middleware"
   require "feedjira"
 
+  FEEDER_LOGFILE = File.expand_path("../../../log/feeder.log", __FILE__)
+  RETRY_LIMIT = 3
+
   attr_accessor :entries, :parsed_feed, :url
 
   def initialize(url:)
@@ -38,9 +41,9 @@ class Feeder::Feed
 
   def request_feed
     connection = Faraday.new(url: url) do |faraday|
-      faraday.adapter Faraday.default_adapter
-      faraday.response :logger
-      faraday.use FaradayMiddleware::FollowRedirects, limit: 3
+      faraday.use Faraday::Adapter::NetHttp
+      faraday.use Faraday::Response::Logger, Logger.new(FEEDER_LOGFILE)
+      faraday.use FaradayMiddleware::FollowRedirects, limit: RETRY_LIMIT
     end
 
     response = connection.get
