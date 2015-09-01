@@ -9,8 +9,8 @@ class Feed < ActiveRecord::Base
   has_many :entries
 
   validates :name, presence: true
-  validates :url, presence: true
-  validates :user, presence: true
+  validates :url, presence: true, uniqueness: { scope: :user_id }
+  validates :user_id, presence: true
 
   def fetch
     parse_feed(request_feed)
