@@ -4,14 +4,14 @@
   <table>
     <tr>
       <th>Name</th>
-      <th>URL</th>
+      <th>Domain</th>
       <th>Entries</th>
       <th>Actions</th>
     </tr>
     <% for feed in @feeds -%>
     <tr>
       <td data-role="feed-name"><%= link_to feed.name, feed_path(feed) %></td>
-      <td data-role="feed-url"><%= feed.url %></td>
+      <td data-role="feed-domain"><%= domain(feed.url) %></td>
       <td data-role="feed-entries"></td>
       <td>
         <%= link_to t("feeds.buttons.edit"), edit_feed_path(feed) %>
