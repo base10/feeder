@@ -62,19 +62,4 @@ describe Feed do
       )
     end
   end
-
-  def stub_feed_request(feed:)
-    stub_request(:get, feed.url).to_return(
-      body: feed_fixture,
-      status: 200,
-    )
-  end
-
-  def feed_fixture
-    File.read(fixture_path)
-  end
-
-  def fixture_path
-    "#{Rails.root}/spec/support/fixtures/feed.rss"
-  end
 end

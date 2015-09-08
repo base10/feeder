@@ -24,7 +24,9 @@ en:
       add: "Add feed"
       edit: "Edit feed"
       destroy: "Delete feed"
+      fetch: "Fetch feed"
     index:
+      fetch: "Fetched entries for %{feed_name}."
       title: "Feeds"
     show:
       feed_entries: "Feed entries"

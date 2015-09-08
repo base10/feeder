@@ -16,7 +16,9 @@
 <body class="<%= body_class %>">
   <%= render "account_actions" -%>
   <%= render "flashes" -%>
+  <main>
   <%= yield %>
+  </main>
   <%= render "javascript" %>
 </body>
 </html>

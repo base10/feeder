@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
   resources :feeds do
     resources :entries, only: [:edit, :update]
+    resource :fetch, only: [:create]
   end
 
   resource :session, only: [:new, :create, :destroy]
