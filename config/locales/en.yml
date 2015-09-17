@@ -30,6 +30,8 @@ en:
       title: "Feeds"
     show:
       feed_entries: "Feed entries"
+      notes: "Notes"
+      summary: "Summary"
       title: "Feed: %{feed}"
     new:
       title: "Create a new feed"
@@ -41,6 +43,18 @@ en:
     destroy:
       failure: "There was en error deleting your feed"
       success: "Feed deleted"
+
+  landing:
+    header: "Welcome to Feeder"
+    summary: >
+      Feeder is a service that allows you to quickly process RSS feeds for
+      posting to a link and notes blog.
+    description: >
+      RSS feeds are organized into publications. New entries for your feeds are
+      automatically collected to the system. You can then add notes and organize
+      them into editions. Editions can be published as Markdown or HTML and
+      exported to the publishing system of your choice.
+    cost: The Feeder Public Beta is $9 per month.
 
   time:
     formats:
