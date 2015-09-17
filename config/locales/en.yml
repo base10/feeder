@@ -45,16 +45,16 @@ en:
       success: "Feed deleted"
 
   landing:
-    header: "Welcome to Feeder"
-    summary: >
-      Feeder is a service that allows you to quickly process RSS feeds for
-      posting to a link and notes blog.
+    cost: The Feeder Public Beta is $9 per month.
     description: >
       RSS feeds are organized into publications. New entries for your feeds are
       automatically collected to the system. You can then add notes and organize
       them into editions. Editions can be published as Markdown or HTML and
       exported to the publishing system of your choice.
-    cost: The Feeder Public Beta is $9 per month.
+    header: "Welcome to Feeder"
+    summary: >
+      Feeder is a service that allows you to quickly process RSS feeds for
+      posting to a link and notes blog.
 
   time:
     formats:
