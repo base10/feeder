@@ -11,7 +11,7 @@ feature "User views feeds and edits feed" do
     expect(page).not_to have_feed(other_feed.name)
     expect(page).to have_feed_host(feed.url)
 
-    click_on("Edit feed")
+    click_on(t("feeds.buttons.edit"))
     expect(page).to have_header(t("feeds.edit.title", feed: feed.name))
 
     fill_in "Name", with: "Updated feed"
