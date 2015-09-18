@@ -21,12 +21,17 @@ en:
 
   feeds:
     buttons:
-      add: "Add feed"
-      edit: "Edit feed"
-      destroy: "Delete feed"
-      fetch: "Fetch feed"
+      add: "+ Feed"
+      edit: "Edit"
+      destroy: "Delete"
+      fetch: "Fetch"
     index:
       fetch: "Fetched entries for %{feed_name}."
+      labels:
+        actions: "Actions"
+        domain: "Domain"
+        entries: "Entries"
+        name: "Name"
       title: "Feeds"
     show:
       feed_entries: "Feed entries"
