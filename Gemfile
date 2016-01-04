@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
-ruby "2.2.3"
+ruby "2.3.0"
 
 gem "airbrake"
 gem "autoprefixer-rails"
-gem "bourbon", "~> 4.2.3"
-gem "coffee-rails", "~> 4.1.0"
+gem "bourbon"
+gem "coffee-rails"
 gem "delayed_job_active_record"
 gem "dotfiles"
 gem "email_validator"
@@ -18,11 +18,11 @@ gem "i18n-tasks"
 gem "jquery-rails"
 gem "monban"
 gem "monban-generators"
-gem "neat", "~> 1.7.0"
+gem "neat"
 gem "newrelic_rpm", ">= 3.9.8"
 gem "normalize-rails", "~> 3.0.0"
 gem "pg"
-gem "rails", "4.2.4"
+gem "rails", "5.0.0.beta1"
 gem "recipient_interceptor"
 gem "refills"
 gem "sass-rails", "~> 5.0"
@@ -46,7 +46,7 @@ group :development, :test do
   gem "guard"
   gem "guard-rspec"
   gem "pry-rails"
-  gem "rspec-rails", "~> 3.2"
+  gem "rspec-rails"
 end
 
 group :test do
