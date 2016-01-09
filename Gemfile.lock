@@ -46,9 +46,6 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     addressable (2.4.0)
-    airbrake (5.0.2)
-      airbrake-ruby (~> 1.0)
-    airbrake-ruby (1.0.2)
     arel (7.0.0)
     ast (2.2.0)
     autoprefixer-rails (6.2.3)
@@ -311,6 +308,8 @@ GEM
       json (~> 1.8)
       simplecov-html (~> 0.10.0)
     simplecov-html (0.10.0)
+    skylight (0.10.1)
+      activesupport (>= 3.0.0)
     slop (3.6.0)
     spring (1.6.1)
     spring-commands-rspec (1.0.4)
@@ -365,7 +364,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  airbrake
   autoprefixer-rails
   awesome_print
   bourbon
@@ -406,6 +404,7 @@ DEPENDENCIES
   shoulda-matchers
   simple_form
   simplecov
+  skylight
   spring
   spring-commands-rspec
   timecop
