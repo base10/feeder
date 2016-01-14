@@ -1,37 +1,30 @@
 <% if signed_in? %>
   <h1><%= t(".title") %></h1>
 
-  <table>
+  <table data-role="feeds">
     <tr>
       <th><%= t(".labels.name") %></th>
       <th><%= t(".labels.domain") %></th>
       <th><%= t(".labels.entries") %></th>
       <th><%= t(".labels.actions") %></th>
     </tr>
-    <% for feed in @feeds -%>
-    <tr>
-      <td data-role="feed-name"><%= link_to feed.name, feed_path(feed) %></td>
-      <td data-role="feed-domain"><%= domain(feed.url) %></td>
-      <td data-role="feed-entries-<%= feed.id %>"><%= feed.entries.count %></td>
-      <td>
-        <%= link_to(
-          t("feeds.buttons.fetch"),
-          feed_fetch_path(feed),
-          data: {
-            method: :post,
-            remote: true,
-            role: "fetch",
-            type: :script
-          }
-        ) %>
-        <%= link_to t("feeds.buttons.edit"), edit_feed_path(feed) %>
-        <%= link_to t("feeds.buttons.destroy"), feed_path(feed), method: :delete %>
-      </td>
-    </tr>
-    <% end %>
+    <%= render @feeds %>
   </table>
 
-  <%= link_to t("feeds.buttons.add"), new_feed_path %>
+  <%= link_to(
+    t("feeds.buttons.add"),
+    new_feed_path,
+    {
+      data: {
+        role: "add-feed-form"
+      }
+    }
+  ) %>
+
+  <div id="feed-form-container">
+    <%= render partial: "form", locals: { feed: Feed.new } %>
+  </div>
+
 <% else %>
   <%= render "landing" %>
 <% end %>

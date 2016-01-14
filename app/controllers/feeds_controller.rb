@@ -18,12 +18,22 @@ class FeedsController < ApplicationController
   def create
     @feed = Feed.new(feed_params)
 
-    if @feed.save
-      flash[:success] = t(".success")
-      redirect_to @feed
-    else
-      flash.now[:error] = t(".failure")
-      render :new
+    respond_to do |format|
+      if @feed.save
+        format.html do
+          flash[:success] = t(".success")
+          redirect_to @feed
+        end
+
+        ## FIXME: This won't work, will need to handle with info passed back in
+        ## the ajax response
+        format.js do
+          flash.now[:success] = t(".success")
+        end
+      else
+        flash.now[:error] = t(".failure")
+        render :new
+      end
     end
   end
 

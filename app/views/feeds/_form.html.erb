@@ -1,4 +1,4 @@
-<%= simple_form_for @feed do |form| %>
+<%= simple_form_for feed, { data: { remote: true } }  do |form| %>
   <%= form.input :name %>
   <%= form.input :url %>
   <%= form.button :submit %>

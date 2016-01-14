@@ -4,7 +4,7 @@ module Features
   end
 
   def have_data_role(role:, text:)
-    have_css("[data-role='#{role}']", text: text)
+    have_css("[data-role='#{role}']", text: text, visible: true)
   end
 
   def have_header(message)

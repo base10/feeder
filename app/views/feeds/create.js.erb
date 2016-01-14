@@ -1,0 +1,7 @@
+$("div#flash").html(
+  "<%= escape_javascript render(partial: 'flashes') %>"
+);
+
+$("table[data-role='feeds']").append(
+  "<%= escape_javascript render(@feed) %>"
+);
