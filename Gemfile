@@ -22,7 +22,7 @@ gem "neat", "~> 1.7.0"
 gem "newrelic_rpm", ">= 3.9.8"
 gem "normalize-rails", "~> 3.0.0"
 gem "pg"
-gem "rails", "4.2.4"
+gem "rails", "4.2.5.1"
 gem "recipient_interceptor"
 gem "refills"
 gem "sass-rails", "~> 5.0"
@@ -46,14 +46,15 @@ group :development, :test do
   gem "guard"
   gem "guard-rspec"
   gem "pry-rails"
-  gem "rspec-rails", "~> 3.2"
+  gem "rspec-rails", "~> 3.4"
 end
 
 group :test do
-  gem "capybara-webkit", ">= 1.2.0"
+  gem "capybara-webkit"
   gem "database_cleaner"
   gem "formulaic"
   gem "launchy"
+  gem "poltergeist"
   gem "shoulda-matchers", require: false
   gem "simplecov", require: false
   gem "timecop"

@@ -1,9 +1,10 @@
 require "rails_helper"
 
-feature "User fetches feed", :js do
-  scenario "successfully" do
+feature "User fetches feed" do
+  scenario "successfully", js: true do
     feed = create(:feed)
     stub_feed_request(feed: feed)
+
     visit root_path(as: feed.user)
 
     click_on(t("feeds.buttons.fetch"))

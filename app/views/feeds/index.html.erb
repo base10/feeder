@@ -17,9 +17,12 @@
         <%= link_to(
           t("feeds.buttons.fetch"),
           feed_fetch_path(feed),
-          method: :post,
-          remote: true,
-          data: { role: "fetch" }
+          data: {
+            method: :post,
+            remote: true,
+            role: "fetch",
+            type: :script
+          }
         ) %>
         <%= link_to t("feeds.buttons.edit"), edit_feed_path(feed) %>
         <%= link_to t("feeds.buttons.destroy"), feed_path(feed), method: :delete %>

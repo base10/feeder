@@ -4,7 +4,10 @@ class FetchesController < ApplicationController
     feed.delay.fetch
 
     flash.now[:notice] = t("feeds.index.fetch", feed_name: feed.name)
-    render partial: "flashes", layout: false
+
+    respond_to do |format|
+      format.js {}
+    end
   end
 
   private
