@@ -1,4 +1,6 @@
 class FetchesController < ApplicationController
+  after_filter :discard_flash, only: :create
+
   def create
     feed = current_feed
     feed.delay.fetch
