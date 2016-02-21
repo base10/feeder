@@ -1,5 +1,7 @@
 $(document).ready(function() {
   var addFeedRole = "a[data-role='add-feed-form']";
+  var newFeedFormRole = "form#new_feed";
+  var feedFetchRole = "input[data-role='fetch'],form";
 
   $(document).on(
     "click",
@@ -12,7 +14,7 @@ $(document).ready(function() {
 
   $(document).on(
     "ajax:beforeSend",
-    "form#new_feed",
+    newFeedFormRole,
     function() {
       $("form#new_feed input[type='submit']").prop("disabled", true);
     }
@@ -20,7 +22,7 @@ $(document).ready(function() {
 
   $(document).on(
     "ajax:complete",
-    "form#new_feed",
+    newFeedFormRole,
     function() {
       $("form#new_feed input[type='submit']").prop("disabled", false);
     }
@@ -28,9 +30,25 @@ $(document).ready(function() {
 
   $(document).on(
     "ajax:success",
-    "form#new_feed",
+    newFeedFormRole,
     function() {
       $(this)[0].reset();
+    }
+  );
+
+  $(document).on(
+    "ajax:beforeSend",
+    feedFetchRole,
+    function() {
+      $(this).find("input[type='submit']").prop("disabled", true);
+    }
+  );
+
+  $(document).on(
+    "ajax:complete",
+    feedFetchRole,
+    function() {
+      $(this).find("input[type='submit']").prop("disabled", false);
     }
   );
 });

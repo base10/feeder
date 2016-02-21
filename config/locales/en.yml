@@ -46,6 +46,7 @@ en:
     edit:
       title: "Edit %{feed} feed"
     destroy:
+      confirm: "Please confirm you'd like to delete this feed and its entries"
       failure: "There was en error deleting your feed"
       success: "Feed deleted"
 
