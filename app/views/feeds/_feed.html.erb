@@ -1,26 +1,28 @@
-    <tr data-role="feed">
-      <td data-role="feed-name"><%= link_to feed.name, feed_path(feed) %></td>
-      <td data-role="feed-domain"><%= domain(feed.url) %></td>
-      <td data-role="feed-entries-<%= feed.id %>"><%= feed.entries.count %></td>
-      <td>
-        <%= button_to(
-          t("feeds.buttons.fetch"),
-          feed_fetch_path(feed),
-          remote: true,
-          data: { role: "fetch" }
-        ) %>
+    <li data-role="feed">
+      <ul>
+        <li data-role="feed-name"><%= link_to feed.name, feed_path(feed) %></li>
+        <li data-role="feed-domain"><%= domain(feed.url) %></li>
+        <li data-role="feed-entries-<%= feed.id %>"><%= feed.entries.count %></li>
+        <li data-role="feed-actions">
+          <%= button_to(
+            t("feeds.buttons.fetch"),
+            feed_fetch_path(feed),
+            remote: true,
+            data: { role: "fetch" }
+          ) %>
 
-        <%= button_to(
-          t("feeds.buttons.edit"),
-          edit_feed_path(feed),
-          method: :get
-        ) %>
+          <%= button_to(
+            t("feeds.buttons.edit"),
+            edit_feed_path(feed),
+            method: :get
+          ) %>
 
-        <%= button_to(
-          t("feeds.buttons.destroy"),
-          feed_path(feed),
-          method: :delete,
-          data: { confirm: t("feeds.destroy.confirm") }
-        ) %>
-      </td>
-    </tr>
+          <%= button_to(
+            t("feeds.buttons.destroy"),
+            feed_path(feed),
+            method: :delete,
+            data: { confirm: t("feeds.destroy.confirm") }
+          ) %>
+        </li>
+      </ul>
+    </li>

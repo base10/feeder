@@ -1,15 +1,11 @@
 <% if signed_in? %>
   <h1><%= t(".title") %></h1>
 
-  <table data-role="feeds">
-    <tr>
-      <th><%= t(".labels.name") %></th>
-      <th><%= t(".labels.domain") %></th>
-      <th><%= t(".labels.entries") %></th>
-      <th><%= t(".labels.actions") %></th>
-    </tr>
-    <%= render @feeds %>
-  </table>
+  <section id="feeds-container">
+    <ul data-role="feeds">
+      <%= render @feeds %>
+    </ul>
+  </section>
 
   <%= link_to(
     t("feeds.buttons.add"),

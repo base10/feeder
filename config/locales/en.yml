@@ -21,7 +21,7 @@ en:
 
   feeds:
     buttons:
-      add: "+ Feed"
+      add: "Add a feed"
       edit: "Edit"
       destroy: "Delete"
       fetch: "Fetch"
