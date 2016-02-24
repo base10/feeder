@@ -8,7 +8,7 @@ $(document).ready(function() {
     addFeedRole,
     function(event) {
       event.preventDefault();
-      $("div#feed-form-container").show();
+      $("div.feed-form-container").show();
     }
   );
 
