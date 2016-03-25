@@ -1,15 +1,23 @@
 FactoryGirl.define do
   trait :first_or_new_feed do
     before :create do |model|
-      if !model.feed.present?
+      unless model.feed.present?
         model.feed = Feed.first || create(:feed)
+      end
+    end
+  end
+
+  trait :first_or_new_publication do
+    before :create do |model|
+      unless model.publication.present?
+        model.publication = Publication.first || create(:publication)
       end
     end
   end
 
   trait :first_or_new_user do
     before :create do |model|
-      if !model.user.present?
+      unless model.user.present?
         model.user = User.first || create(:user)
       end
     end
@@ -25,11 +33,20 @@ FactoryGirl.define do
     first_or_new_feed
   end
 
+  factory :publication do
+    sequence(:name) { |n| "Publication #{n}" }
+    description "Description about a publication"
+    sequence(:url) { |n| "http://publication-#{n}.example.com/" }
+
+    first_or_new_user
+  end
+
   factory :feed do
     sequence(:name) { |n| "Feed #{n}" }
     sequence(:url) { |n| "http://example.com/feed#{n}.rss" }
 
     first_or_new_user
+    first_or_new_publication
   end
 
   factory :user do

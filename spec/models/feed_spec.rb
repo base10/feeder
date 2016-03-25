@@ -7,7 +7,9 @@ describe Feed do
     it { should validate_presence_of :name }
     it { should validate_presence_of :url }
     it { should validate_uniqueness_of(:url).scoped_to(:user_id) }
+    it { should validate_presence_of :publication_id }
     it { should validate_presence_of :user_id }
+    it { should belong_to :publication }
     it { should belong_to :user }
     it { should have_many :entries }
   end

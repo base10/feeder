@@ -2,13 +2,15 @@ require "rails_helper"
 
 feature "User creates feed" do
   scenario "successfully without JavaScript" do
-    user = create(:user)
+    publication = create(:publication)
 
-    visit feeds_path(as: user)
+    visit feeds_path(as: publication.user)
 
     click_on(t("feeds.buttons.add"))
     fill_in "Name", with: "Instapaper Folder"
     fill_in "URL", with: "http://example.com/"
+    select publication.name, from: "Publication"
+
     click_button(t("helpers.submit.feed.create"))
 
     expect(page).to have_feedback(t("feeds.create.success"))
@@ -16,15 +18,16 @@ feature "User creates feed" do
   end
 
   scenario "successfully with JavaScript", js: true do
-    user = create(:user)
+    publication = create(:publication)
 
-    visit feeds_path(as: user)
+    visit feeds_path(as: publication.user)
 
     click_on(t("feeds.buttons.add"))
     fill_in "Name", with: "Instapaper Folder"
     fill_in "URL", with: "http://example.com/"
+    select publication.name, from: "Publication"
+
     click_button(t("helpers.submit.feed.create"))
-    wait_for_ajax
 
     expect(page).to have_feedback(t("feeds.create.success"))
     expect(page).to have_feed("Instapaper Folder")

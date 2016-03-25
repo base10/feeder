@@ -26,14 +26,19 @@ class FeedsController < ApplicationController
           redirect_to @feed
         end
 
-        ## FIXME: This won't work, will need to handle with info passed back in
-        ## the ajax response
         format.js do
           flash.now[:success] = t(".success")
         end
       else
-        flash.now[:error] = t(".failure")
-        render :new
+        format.html do
+          flash.now[:error] = t(".failure")
+          render :new
+        end
+
+        format.js do
+          flash.now[:error] = t(".failure")
+          render :new
+        end
       end
     end
   end
@@ -71,6 +76,10 @@ class FeedsController < ApplicationController
   end
 
   def feed_params
-    params.require(:feed).permit(:name, :url).merge(user: current_user)
+    params.require(:feed).permit(
+      :name,
+      :publication_id,
+      :url,
+    ).merge(user: current_user)
   end
 end

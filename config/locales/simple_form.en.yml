@@ -6,6 +6,8 @@ en:
       feed:
         create: "Add this feed"
         update: "Update this feed"
+      publication:
+        create: "Add this publication"
       user:
         create: "Create your account"
   simple_form:

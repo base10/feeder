@@ -5,11 +5,13 @@ class Feed < ActiveRecord::Base
 
   RETRY_LIMIT = 3
 
+  belongs_to :publication
   belongs_to :user
   has_many :entries
 
   validates :name, presence: true
   validates :url, presence: true, uniqueness: { scope: :user_id }
+  validates :publication_id, presence: true
   validates :user_id, presence: true
 
   def fetch

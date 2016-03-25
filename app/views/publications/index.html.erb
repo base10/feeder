@@ -1,0 +1,25 @@
+<% if signed_in? %>
+  <h1><%= t(".title") %></h1>
+
+  <section id="publications-container">
+    <ul data-role="publications">
+      <%= render @publications %>
+    </ul>
+  </section>
+
+  <%= link_to(
+    t("publications.buttons.add"),
+    new_publication_path,
+    {
+      data: {
+        role: "add-publication-form"
+      }
+    }
+  ) %>
+
+  <div class="publication-form-container">
+    <%= render partial: "form", locals: { publication: Publication.new } %>
+  </div>
+<% else %>
+  <%= render "landing" %>
+<% end %>

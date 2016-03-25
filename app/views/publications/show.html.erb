@@ -1,0 +1,21 @@
+<h1><%= t(".title", publication: @publication.name) %></h1>
+
+<%= link_to t("publications.buttons.add"), new_publication_path %>
+
+<ul>
+  <li data-role="publication-name"><%= @publication.name %></li>
+  <li data-role="publication-description"><%= @publication.description %></li>
+  <li data-role="publication-url"><%= @publication.url %></li>
+</ul>
+
+<%= link_to t("publications.buttons.edit"), edit_publication_path %>
+
+<h2><%= t(".publication_feeds") %></h2>
+
+<section data-role="feeds">
+  <% for feed in @publication.feeds -%>
+    <article data-role="feed">
+      <p data-role="feed-name"><%= feed.name %></p>
+    </article>
+  <% end %>
+<section>

@@ -1,0 +1,6 @@
+<%= simple_form_for publication do |form| %>
+  <%= form.input :name %>
+  <%= form.input :description, as: :text %>
+  <%= form.input :url %>
+  <%= form.button :submit %>
+<% end %>

@@ -191,7 +191,7 @@ GEM
     notiffany (0.0.8)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    pg (0.18.2)
+    pg (0.18.4)
     poltergeist (1.8.1)
       capybara (~> 2.1)
       cliver (~> 0.3.1)

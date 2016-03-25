@@ -1,5 +1,6 @@
 <%= simple_form_for feed, { data: { remote: true } }  do |form| %>
   <%= form.input :name %>
   <%= form.input :url %>
+  <%= form.association :publication, collection: current_user.publications %>
   <%= form.button :submit %>
 <% end %>

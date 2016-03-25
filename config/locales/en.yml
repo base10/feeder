@@ -62,6 +62,18 @@ en:
       Feeder is a service that allows you to quickly process RSS feeds for
       posting to a link and notes blog.
 
+  publications:
+    buttons:
+      add: "Add a publication"
+      edit: "Edit"
+    index:
+      title: "Publications"
+    new:
+      title: "Publication"
+    show:
+      publication_feeds: "Publication feeds"
+      title: "Publication: %{publication}"
+
   time:
     formats:
       default:

@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :publications
+
   resources :feeds do
     resources :entries, only: [:edit, :update]
     resource :fetch, only: [:create]
@@ -11,5 +13,6 @@ Rails.application.routes.draw do
   get "/sign_in" => "sessions#new"
   get "/sign_out" => "sessions#destroy"
 
+  # FIXME: Convert to publications
   root "feeds#index"
 end
