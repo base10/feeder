@@ -1,4 +1,6 @@
 class PublicationsController < ApplicationController
+  skip_before_action :require_login, only: [:index]
+
   def index
     if signed_in?
       @publications = current_user.publications

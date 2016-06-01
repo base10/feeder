@@ -13,6 +13,5 @@ Rails.application.routes.draw do
   get "/sign_in" => "sessions#new"
   get "/sign_out" => "sessions#destroy"
 
-  # FIXME: Convert to publications
-  root "feeds#index"
+  root "publications#index"
 end

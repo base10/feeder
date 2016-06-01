@@ -5,7 +5,7 @@ feature "User fetches feed" do
     feed = create(:feed)
     stub_feed_request(feed: feed)
 
-    visit root_path(as: feed.user)
+    visit feeds_path(as: feed.user)
 
     click_on(t("feeds.buttons.fetch"))
 

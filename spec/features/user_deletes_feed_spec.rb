@@ -2,10 +2,9 @@ require "rails_helper"
 
 feature "User deletes feed" do
   scenario "successfully" do
-    user = create(:user)
-    feed = create(:feed, user: user)
+    feed = create(:feed)
 
-    visit root_path(as: user)
+    visit feeds_path(as: feed.user)
     click_on(t("feeds.buttons.destroy"))
 
     expect(page).to have_feedback(t("feeds.destroy.success"))

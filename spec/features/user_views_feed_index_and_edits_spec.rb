@@ -2,11 +2,10 @@ require "rails_helper"
 
 feature "User views feeds and edits feed" do
   scenario "successfully" do
-    user = create(:user)
-    feed = create(:feed, user: user)
+    feed = create(:feed)
     other_feed = create(:feed, user: create(:user))
 
-    visit root_path(as: user)
+    visit feeds_path(as: feed.user)
     expect(page).to have_feed(feed.name)
     expect(page).not_to have_feed(other_feed.name)
     expect(page).to have_feed_host(feed.url)

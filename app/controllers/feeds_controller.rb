@@ -1,5 +1,4 @@
 class FeedsController < ApplicationController
-  skip_before_action :require_login, only: [:index]
   after_filter :discard_flash, only: :create
 
   def index

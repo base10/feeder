@@ -2,11 +2,10 @@ require "rails_helper"
 
 feature "User views and edits entries" do
   scenario "successfully" do
-    user = create(:user)
-    feed = create(:feed, user: user)
+    feed = create(:feed)
     entry = create(:entry, feed: feed)
 
-    visit root_path(as: user)
+    visit feeds_path(as: feed.user)
     click_on(feed.name)
 
     expect(page).to have_feed_entry(entry.headline)
@@ -27,11 +26,10 @@ feature "User views and edits entries" do
   end
 
   scenario "with invalid parameters" do
-    user = create(:user)
-    feed = create(:feed, user: user)
+    feed = create(:feed)
     entry = create(:entry, feed: feed)
 
-    visit root_path(as: user)
+    visit feeds_path(as: feed.user)
     click_on(feed.name)
 
     click_on(entry.headline)
