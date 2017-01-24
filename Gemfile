@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "2.2.3"
+ruby "2.3.1"
 
 gem "airbrake"
 gem "autoprefixer-rails"
@@ -22,7 +22,7 @@ gem "neat", "~> 1.7.0"
 gem "newrelic_rpm", ">= 3.9.8"
 gem "normalize-rails", "~> 3.0.0"
 gem "pg"
-gem "rails", "4.2.6"
+gem "rails", "4.2.7.1"
 gem "recipient_interceptor"
 gem "refills"
 gem "sass-rails", "~> 5.0"
